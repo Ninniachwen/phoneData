@@ -1,5 +1,6 @@
 # by zehan-alam
 # minor improvements by ML
+
 import requests
 from bs4 import BeautifulSoup
 import re
@@ -13,7 +14,7 @@ with open("phone_links.txt", "r") as f:
         #if re.search('oneplus',line[:-1]):
         links.append(line[:-1])
 
-filepath = 'specs.csv'
+filepath = 'GSMPhoneData.csv'
 
 ip_addresses = []
 with open("ip_addresses.txt", "r") as f:

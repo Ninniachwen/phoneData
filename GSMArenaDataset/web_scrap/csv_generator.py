@@ -20,5 +20,5 @@ specs= {'Name':name, '2G':band_2G, '3G':band_3G, '4G':band_4G, '5G':band_5G, 'An
         'SAR EU':sar_eu, 'Price':price, 'Benchmark Results':benchmarks,
         'Battery Test':battery_test, 'Popularity':popularity, 'Rating':review}
 
-path = 'specs.csv'
+path = 'GSMPhoneData.csv'
 pd.DataFrame(specs,columns=list(specs.keys())).to_csv(path)
