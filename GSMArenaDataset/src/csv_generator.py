@@ -1,3 +1,5 @@
+# by zehan-alam
+
 import pandas as pd
 name=[];band_2G= [];  band_3G= [];  band_4G= [];  band_5G= [];  announced= [];  released= []; dimension= [];  weight= [];  
 build= [];  sim= [];  bodyother= []; displaytype= [];  displaysize= [];  displayresolution= [];  displayprotection= []; 

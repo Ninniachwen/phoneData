@@ -1,7 +1,9 @@
+# by zehan-alam
+
 import re
 
 # cleans existing files of false line breaks and special characters
-# by MAL
+# by ML
 
 # Input and output file paths
 input_file = 'specs copy.csv'

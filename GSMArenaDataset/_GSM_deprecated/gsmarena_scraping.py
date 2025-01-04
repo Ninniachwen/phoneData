@@ -64,7 +64,7 @@ class Gsmarena():
             raise
 
     # store objects temporarily on disc
-    # by MAL
+    # by ML
     def store_temp(self, item: str, filename: str) -> bool:
         self.create_folder(self.temp_folder)
         with open(os.path.join(self.temp_folder, filename), 'w', encoding='utf-8') as file:
@@ -72,7 +72,7 @@ class Gsmarena():
         return written > 0   # flag whether write was successful
     
     # read temp soup from disc or read from web
-    # by MAL
+    # by ML
     def read_if_temp_exists(self, name: str) -> BeautifulSoup|None:
         files_list = self.check_file_exists(self.temp_folder)   # file list or empty list
         if name in files_list:
@@ -84,7 +84,7 @@ class Gsmarena():
             return None # no file matched the filename
 
     # This function crawl mobile phones brands and return the list of the brands.
-    # edited by MAL: cash soup on disc
+    # edited by ML: cash soup on disc
     def crawl_phone_brands(self):
         phones_brands = []
         soup = self.read_or_crawl_html_page('makers.php3')
@@ -154,7 +154,7 @@ class Gsmarena():
         return phone_data
 
     # This function create the folder 'GSMArenaDataset'.
-    # by MAL
+    # by ML
     def create_folder(self, folder_path):
         if not os.path.exists(folder_path):
             os.makedirs(folder_path)
@@ -166,7 +166,7 @@ class Gsmarena():
         
 
     # Returns a list of files in the specified folder, or an empty list if the folder doesn't exist.
-    # edited by MAL: prevent exception if folder doesn't exist
+    # edited by ML: prevent exception if folder doesn't exist
     def check_file_exists(self, absolute_path):
         if os.path.exists(absolute_path):
             return os.listdir(absolute_path)
