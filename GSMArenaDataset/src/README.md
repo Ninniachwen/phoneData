@@ -1,4 +1,10 @@
-# Smartphone Specifications Scraping from GSM Arena
+# Phone Data Analysis
+
+## Script
+
+### Smartphone Specifications Scraping from GSM Arena
+
+by [zehan-alam](https://github.com/zehan-alam/Web-Scraping--GSMarena)
 
 This project utilizes Python's BeautifulSoup library to extract smartphone specifications from [GSM Arena](https://www.gsmarena.com). The step-by-step process is as follows:
 
@@ -15,3 +21,5 @@ This project utilizes Python's BeautifulSoup library to extract smartphone speci
 **Note:** You can customize the brands to scrape in `scrap_specs.py` to select specific brands rather than scraping all.
 
 For the detailed project code and implementation, refer to the relevant scripts in the repository. Please ensure proper usage of proxies and adhere to the website's terms of use while scraping data.
+
+## Data
