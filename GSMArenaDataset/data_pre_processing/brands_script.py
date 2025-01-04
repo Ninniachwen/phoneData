@@ -6,7 +6,7 @@ brands_all = 'GSMArenaDataset/web_scrap/brand_links_all.txt'  # List of possible
 output_file = 'GSMArenaDataset/web_scrap/brand_links.txt'  # List of interesting brands
 
 # Input datasets
-datasets = ['sales/Sales.csv', 'user/user_behavior_dataset.csv']
+datasets = ['sales/top 120 best-selling mobile phones.csv', 'user/user_behavior_dataset.csv']
 
 # Initialize an empty set to store unique brand matches
 brand_matches = set()
@@ -15,10 +15,10 @@ for dataset in datasets:
     df = pd.read_csv(dataset)
 
     # Extract unique brands
-    if 'Brands' not in df.columns:
-        df['Brands'] = df['Device Model'].apply(lambda x: x.split()[0])
-    brands: list[str] = df['Brands'].dropna().unique()
-    brand_list = [brand.strip() for brand in brands]  # Remove whitespaces
+    if 'Manufacturer' not in df.columns:
+        df['Manufacturer'] = df['Device Model'].apply(lambda x: x.split()[0])
+    brands: list[str] = df['Manufacturer'].dropna().unique()
+    brand_list = [brand.strip().replace("Sony Ericsson", "sony").replace("Research in Motion (RIM)", "BlackBerry").replace("leTV", "LeEco") for brand in brands]  # Remove whitespaces
 
     print(f"Extracted Brands from {dataset}: {brand_list}")
 
@@ -38,4 +38,4 @@ with open(output_file, 'w') as f:
 
 # notes on brands & subbrands:
 # some identified brands are not in the list of brands, however in this case their owening brand is in the list and appears in the other dataset. Therefore those subbrands can simply be ignored
-# eg: POCO by Xiaomi
+# eg: iPhone by Apple

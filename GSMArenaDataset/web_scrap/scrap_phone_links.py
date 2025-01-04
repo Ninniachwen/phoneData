@@ -26,6 +26,6 @@ for link in brand_links:
     print(f"{i} links are done")
 
 
-with open("phone_links.txt","a") as f:
+with open("phone_links.txt","w") as f:
     for i in phone_links:
         f.write(f'{i}\n')

@@ -2,3 +2,5 @@ requests
 bs4
 pandas
 lxml
+fuzzywuzzy
+python-Levenshtein
