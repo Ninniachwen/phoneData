@@ -4,8 +4,8 @@
 import re
 
 # Input and output file paths
-input_file = 'specs copy.csv'
-output_file = 'specs_2023.csv'
+input_file = '2023_GSM_raw.csv'
+output_file = '2023_GSM_parsed.csv'
 
 # Define regex pattern for valid rows: start with a number and comma
 valid_row_pattern = re.compile(r'^\d*,')
