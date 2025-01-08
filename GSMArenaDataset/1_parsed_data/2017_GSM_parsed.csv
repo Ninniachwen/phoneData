@@ -5640,8 +5640,8 @@ Samsung Gear S3 frontier LTE,Samsung,Gear S3 frontier LTE,2016-11-01,2016.0,1.3,
 Samsung Galaxy J5 Prime,Samsung,Galaxy J5 Prime,2016-10-01,2016.0,5.0,32.0,13.0,13 MP| f/1.9| 28mm| autofocus| LED flash,Yes,Yes with A-GPS GLONASS/ BDS (region dependent),Black| Gold,230.0,2400.0,2.0
 Samsung Galaxy J7 Prime,Samsung,Galaxy J7 Prime,2016-09-01,2016.0,5.5,32.0,13.0,13 MP| f/1.9| 28mm| autofocus| LED flash,Yes,Yes with A-GPS GLONASS BDS,Black| Gold| Rose Gold,280.0,3300.0,3.0
 Samsung Z2,Samsung,Z2,2016-08-01,2016.0,4.0,8.0,5.0,5 MP| f/2.2| LED flash,Yes,Yes with A-GPS GLONASS,Gold| Black| Red,80.0,1500.0,1.0
-Samsung Galaxy Note7 (USA),Samsung,Galaxy Note7 (USA),2016-08-01,2016.0,5.7,64.0,12.0,12 MP| f/1.7| 26mm| phase detection autofocus| OIS| LED flash,Yes,Yes with A-GPS GLONASS,Blue Coral| Silver Titanium| Black Onyx,760.0,3500.0,4.0
-Samsung Galaxy Note7,Samsung,Galaxy Note7,2016-09-01,2016.0,5.7,64.0,12.0,12 MP| f/1.7| 26mm| phase detection autofocus| OIS| LED flash| ,Yes,Yes with A-GPS GLONASS BDS GALILEO,Blue Coral| Gold Platinum| Silver Titanium| Black Onyx,850.0,3500.0,4.0
+Samsung Galaxy Note 7 (USA),Samsung,Galaxy Note 7 (USA),2016-08-01,2016.0,5.7,64.0,12.0,12 MP| f/1.7| 26mm| phase detection autofocus| OIS| LED flash,Yes,Yes with A-GPS GLONASS,Blue Coral| Silver Titanium| Black Onyx,760.0,3500.0,4.0
+Samsung Galaxy Note 7,Samsung,Galaxy Note 7,2016-09-01,2016.0,5.7,64.0,12.0,12 MP| f/1.7| 26mm| phase detection autofocus| OIS| LED flash| ,Yes,Yes with A-GPS GLONASS BDS GALILEO,Blue Coral| Gold Platinum| Silver Titanium| Black Onyx,850.0,3500.0,4.0
 Samsung Galaxy On7 Pro,Samsung,Galaxy On7 Pro,2016-07-01,2016.0,5.5,16.0,13.0,13 MP| f/2.1| autofocus| LED flash,Yes,Yes with A-GPS GLONASS/ BDS (region dependent),White| Black| Gold,180.0,3000.0,2.0
 Samsung Galaxy On5 Pro,Samsung,Galaxy On5 Pro,2016-07-01,2016.0,5.0,16.0,8.0,8 MP| f/2.2| autofocus| LED flash,Yes,Yes with A-GPS GLONASS,White| Black,150.0,2600.0,2.0
 Samsung Galaxy Tab J,Samsung,Galaxy Tab J,2016-08-01,2016.0,7.0,8.0,8.0,8 MP| f/1.9| autofocus| LED flash,Yes,Yes with A-GPS GLONASS,White| Gold,,4000.0,5.0
@@ -5679,9 +5679,9 @@ Samsung Galaxy On5,Samsung,Galaxy On5,2015-11-01,2015.0,5.0,8.0,8.0,8 MP| f/2.2|
 Samsung Z3,Samsung,Z3,2015-10-01,2015.0,5.0,8.0,8.0,8 MP| f/2.2| autofocus| LED flash,Yes,Yes with A-GPS GLONASS,Black| Silver| Gold,110.0,2600.0,1.0
 Samsung Galaxy J1 Ace,Samsung,Galaxy J1 Ace,2015-10-01,2015.0,4.3,4.0,5.0,5 MP| f/2.2| 31mm| autofocus| LED flash,Yes,Yes with A-GPS GLONASS,White| Black| Blue,140.0,1900.0,0.4980544747081712
 Samsung Gear S2 3G,Samsung,Gear S2 3G,2015-10-01,2015.0,1.2,4.0,,,Yes,Yes with A-GPS,Dark Gray| Silver,300.0,300.0,0.4980544747081712
-Samsung Galaxy Note5 (USA),Samsung,Galaxy Note5 (USA),2015-08-01,2015.0,5.7,64.0,16.0,16 MP| f/1.9| 28mm| OIS| autofocus| LED flash,Yes,Yes with A-GPS GLONASS,Black Sapphire| White Pearl,540.0,3000.0,4.0
-Samsung Galaxy Note5,Samsung,Galaxy Note5,2015-08-01,2015.0,5.7,128.0,16.0,16 MP| f/1.9| 28mm| OIS| autofocus| LED flash| ,Yes,Yes with A-GPS GLONASS BDS,Black Sapphire| Gold Platinum| Silver Titan| White Pearl,590.0,3000.0,4.0
-Samsung Galaxy Note5 Duos,Samsung,Galaxy Note5 Duos,2015-08-01,2015.0,5.7,64.0,16.0,16 MP| f/1.9| 28mm| OIS| autofocus| LED flash,Yes,Yes with A-GPS GLONASS BDS,Black Sapphire| Gold Platinum| Silver Titan| White Pearl,600.0,3000.0,4.0
+Samsung Galaxy Note 5 (USA),Samsung,Galaxy Note 5 (USA),2015-08-01,2015.0,5.7,64.0,16.0,16 MP| f/1.9| 28mm| OIS| autofocus| LED flash,Yes,Yes with A-GPS GLONASS,Black Sapphire| White Pearl,540.0,3000.0,4.0
+Samsung Galaxy Note 5,Samsung,Galaxy Note 5,2015-08-01,2015.0,5.7,128.0,16.0,16 MP| f/1.9| 28mm| OIS| autofocus| LED flash| ,Yes,Yes with A-GPS GLONASS BDS,Black Sapphire| Gold Platinum| Silver Titan| White Pearl,590.0,3000.0,4.0
+Samsung Galaxy Note 5 Duos,Samsung,Galaxy Note 5 Duos,2015-08-01,2015.0,5.7,64.0,16.0,16 MP| f/1.9| 28mm| OIS| autofocus| LED flash,Yes,Yes with A-GPS GLONASS BDS,Black Sapphire| Gold Platinum| Silver Titan| White Pearl,600.0,3000.0,4.0
 Samsung Galaxy S6 edge+ (USA),Samsung,Galaxy S6 edge+ (USA),2015-08-01,2015.0,5.7,64.0,16.0,16 MP| f/1.9| 28mm| OIS| autofocus| LED flash,Yes,Yes with A-GPS GLONASS,Black Sapphire| Gold Platinum,550.0,3000.0,4.0
 Samsung Galaxy S6 edge+,Samsung,Galaxy S6 edge+,2015-08-01,2015.0,5.7,64.0,16.0,16 MP| f/1.9| 28mm| OIS| autofocus| LED flash| ,Yes,Yes with A-GPS GLONASS BDS,Black Sapphire| Gold Platinum| Silver Titan| White Pearl| Pink,530.0,3000.0,4.0
 Samsung Galaxy S6 edge+ Duos,Samsung,Galaxy S6 edge+ Duos,2015-08-01,2015.0,5.7,64.0,16.0,16 MP| f/1.9| 28mm| OIS| autofocus| LED flash,Yes,Yes with A-GPS GLONASS BDS,Black Sapphire| Gold Platinum| Silver Titan| White Pearl,530.0,3000.0,4.0
@@ -7598,7 +7598,7 @@ vivo Y31,vivo,Y31,2015-10-01,2015.0,4.7,8.0,8.0,8 MP| LED flash,Yes,Yes with A-G
 vivo Y35,vivo,Y35,2015-07-01,2015.0,5.0,16.0,13.0,13 MP| autofocus| LED flash,Yes,Yes with A-GPS,White/Gold,,2300.0,2.0
 vivo Y37,vivo,Y37,2015-08-01,2015.0,5.5,16.0,13.0,13 MP| autofocus| LED flash,Yes,Yes with A-GPS,White,,2720.0,2.0
 vivo X5Max Platinum Edition,vivo,X5Max Platinum Edition,2015-06-01,2015.0,5.5,32.0,13.0,13 MP| autofocus| LED flash,Yes,Yes with A-GPS,White,440.0,4150.0,3.0
-vivo X5Pro,vivo,X5Pro,2015-06-01,2015.0,5.2,16.0,13.0,13 MP| f/2.0| phase detection autofocus| LED flash| ,Yes,Yes with A-GPS GLONASS,Black| White,,2450.0,2.0
+vivo X5 Pro,vivo,X5 Pro,2015-06-01,2015.0,5.2,16.0,13.0,13 MP| f/2.0| phase detection autofocus| LED flash| ,Yes,Yes with A-GPS GLONASS,Black| White,,2450.0,2.0
 vivo X5Max+,vivo,X5Max+,2015-03-01,2015.0,5.5,16.0,13.0,13 MP| autofocus| LED flash,Yes,Yes with A-GPS,White,430.0,2300.0,2.0
 vivo X5Max,vivo,X5Max,2014-12-01,2014.0,5.5,16.0,13.0,13 MP| f/2.0| autofocus| LED flash| ,Yes,Yes with A-GPS,White,470.0,2300.0,2.0
 vivo Y11,vivo,Y11,2014-12-01,2014.0,4.0,4.0,5.0,5 MP| autofocus| LED flash,Yes,Yes with A-GPS,White| Black,,1700.0,0.4980544747081712

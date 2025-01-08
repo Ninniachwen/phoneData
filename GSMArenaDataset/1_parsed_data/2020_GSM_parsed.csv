@@ -756,7 +756,7 @@ vivo iQOO Pro 5G,vivo,iQOO Pro 5G,2019-09-01,2019.0,6.41,128.0,48.0,"LED flash, 
 vivo iQOO Pro,vivo,iQOO Pro,2019-08-01,2019.0,6.41,128.0,48.0,"LED flash, HDR, panorama",Yes,"Yes, with A-GPS, GLONASS, BDS, GALILEO","Black, Blue",410.0,4500.0,8.0
 vivo Y90,vivo,Y90,2019-07-01,2019.0,6.22,16.0,8.0,"LED flash, panorama",Yes,"Yes, with A-GPS, GLONASS, GALILEO","Black, Gold",90.0,4030.0,2.0
 vivo V17 Neo,vivo,V17 Neo,2019-08-01,2019.0,6.38,128.0,16.0,"LED flash, HDR, panorama",Yes,"Yes, with A-GPS, GLONASS, GALILEO, BDS","Black brilliant, Blue Pearl",280.0,4500.0,6.0
-vivo Z1Pro,vivo,Z1Pro,2019-07-01,2019.0,6.53,64.0,16.0,"LED flash, HDR, panorama",Yes,"Yes, with A-GPS, GLONASS, BDS","Sonic Blue, Sonic Black, Mirror Black",,5000.0,4.0
+vivo Z1 Pro,vivo,Z1 Pro,2019-07-01,2019.0,6.53,64.0,16.0,"LED flash, HDR, panorama",Yes,"Yes, with A-GPS, GLONASS, BDS","Sonic Blue, Sonic Black, Mirror Black",,5000.0,4.0
 vivo iQOO Neo,vivo,iQOO Neo,2019-07-01,2019.0,6.38,64.0,12.0,"LED flash, HDR, panorama",Yes,"Yes, with A-GPS, GLONASS, BDS, GALILEO","Black, Purple",250.0,4500.0,6.0
 vivo Z5x,vivo,Z5x,2019-06-01,2019.0,6.53,64.0,16.0,"LED flash, HDR, panorama",Yes,"Yes, with A-GPS, GLONASS, BDS","Black, Dark Gray, Blue",200.0,5000.0,4.0
 vivo S1 Pro (China),vivo,S1 Pro (China),2019-05-01,2019.0,6.39,128.0,48.0,"LED flash, HDR, panorama",Yes,"Yes, with A-GPS, GLONASS, BDS","Blue, Red, Midsummer dream",310.0,3700.0,6.0
@@ -885,7 +885,7 @@ Samsung Galaxy S20,Samsung,Galaxy S20,2020-03-06,2020.0,6.2,128.0,12.0,"LED flas
 Samsung Galaxy Z Flip,Samsung,Galaxy Z Flip,2020-02-14,2020.0,6.7,256.0,12.0,"LED flash, HDR, panorama",Yes,"Yes, with A-GPS, GLONASS, GALILEO, BDS","Mirror Black, Mirror Purple, Mirror Gold, Thom Browne Edition",,3300.0,8.0
 Samsung Galaxy Tab S6 5G,Samsung,Galaxy Tab S6 5G,2020-01-30,2020.0,10.5,128.0,13.0,"HDR, panorama","Yes, with stereo speakers (4 speakers)","Yes, with A-GPS, GLONASS, BDS, GALILEO",Mountain Gray,800.0,7040.0,6.0
 Samsung Galaxy Xcover Pro,Samsung,Galaxy Xcover Pro,2020-01-01,2020.0,6.3,64.0,25.0,"Dual-LED flash, HDR, panorama",Yes,"Yes, with A-GPS, GLONASS, GALILEO, BDS",Black,384.38,4050.0,4.0
-Samsung Galaxy Note10 Lite,Samsung,Galaxy Note10 Lite,2020-01-21,2020.0,6.7,128.0,12.0,"LED flash, panorama, HDR",Yes,"Yes, with A-GPS, GLONASS, GALILEO, BDS","Aura Glow, Aura Black, Aura Red",487.0,4500.0,6.0
+Samsung Galaxy Note 10 Lite,Samsung,Galaxy Note 10 Lite,2020-01-21,2020.0,6.7,128.0,12.0,"LED flash, panorama, HDR",Yes,"Yes, with A-GPS, GLONASS, GALILEO, BDS","Aura Glow, Aura Black, Aura Red",487.0,4500.0,6.0
 Samsung Galaxy S10 Lite,Samsung,Galaxy S10 Lite,2020-02-03,2020.0,6.7,128.0,48.0,"LED flash, panorama, HDR",Yes,"Yes, with A-GPS, GLONASS, GALILEO, BDS","Prism White, Prism Black, Prism Blue",501.0,4500.0,6.0
 Samsung Galaxy A01,Samsung,Galaxy A01,2020-01-01,2020.0,5.7,16.0,13.0,LED flash,Yes,"Yes, with A-GPS, GLONASS, GALILEO, BDS","Black, Blue, Red",134.99,3000.0,2.0
 Samsung Galaxy A71,Samsung,Galaxy A71,2020-01-17,2020.0,6.7,128.0,64.0,"LED flash, panorama, HDR",Yes,"Yes, with A-GPS, GLONASS, GALILEO, BDS","Prism, Crush Black, Silver, Blue, Pink",369.99,4500.0,6.0
@@ -900,10 +900,10 @@ Samsung Galaxy Tab Active Pro,Samsung,Galaxy Tab Active Pro,2019-10-01,2019.0,10
 Samsung Galaxy A90 5G,Samsung,Galaxy A90 5G,2019-09-01,2019.0,6.7,128.0,48.0,"LED flash, panorama, HDR",Yes,"Yes, with A-GPS, GLONASS, GALILEO, BDS","White, Black",997.14,4500.0,6.0
 Samsung Galaxy A30s,Samsung,Galaxy A30s,2019-09-11,2019.0,6.4,32.0,25.0,"LED flash, panorama, HDR",Yes,"Yes, with A-GPS, GLONASS, GALILEO, BDS","Prism Crush Black, Prism Crush White, Prism Crush Green, Prism Crush Violet2",215.6,4000.0,3.0
 Samsung Galaxy A50s,Samsung,Galaxy A50s,2019-09-01,2019.0,6.4,64.0,48.0,"LED flash, panorama, HDR",Yes,"Yes, with A-GPS, GLONASS, GALILEO, BDS","Prism Crush Black, Prism Crush White, Prism Crush Green, Prism Crush Violet2",,4000.0,4.0
-Samsung Galaxy Note10+ 5G,Samsung,Galaxy Note10+ 5G,2019-08-01,2019.0,6.8,256.0,12.0,"LED flash, auto-HDR, panorama","Yes, with stereo speakers","Yes, with A-GPS, GLONASS, BDS, GALILEO","Aura Glow, Aura White, Aura Black",922.37,4300.0,12.0
-Samsung Galaxy Note10+,Samsung,Galaxy Note10+,2019-08-23,2019.0,6.8,256.0,12.0,"LED flash, auto-HDR, panorama","Yes, with stereo speakers","Yes, with A-GPS, GLONASS, BDS, GALILEO","Aura Glow, Aura White, Aura Black, Aura Blue",771.25,4300.0,12.0
-Samsung Galaxy Note10 5G,Samsung,Galaxy Note10 5G,2019-08-01,2019.0,6.3,256.0,12.0,"LED flash, auto-HDR, panorama","Yes, with stereo speakers","Yes, with A-GPS, GLONASS, BDS, GALILEO","Aura Glow, Aura White, Aura Black, Aura Pink, Aura Red",1100.0,3500.0,12.0
-Samsung Galaxy Note10,Samsung,Galaxy Note10,2019-08-23,2019.0,6.3,256.0,12.0,"LED flash, auto-HDR, panorama","Yes, with stereo speakers","Yes, with A-GPS, GLONASS, BDS, GALILEO","Aura Glow, Aura White, Aura Black, Aura Pink, Aura Red",668.56,3500.0,8.0
+Samsung Galaxy Note 10+ 5G,Samsung,Galaxy Note 10+ 5G,2019-08-01,2019.0,6.8,256.0,12.0,"LED flash, auto-HDR, panorama","Yes, with stereo speakers","Yes, with A-GPS, GLONASS, BDS, GALILEO","Aura Glow, Aura White, Aura Black",922.37,4300.0,12.0
+Samsung Galaxy Note 10+,Samsung,Galaxy Note 10+,2019-08-23,2019.0,6.8,256.0,12.0,"LED flash, auto-HDR, panorama","Yes, with stereo speakers","Yes, with A-GPS, GLONASS, BDS, GALILEO","Aura Glow, Aura White, Aura Black, Aura Blue",771.25,4300.0,12.0
+Samsung Galaxy Note 10 5G,Samsung,Galaxy Note 10 5G,2019-08-01,2019.0,6.3,256.0,12.0,"LED flash, auto-HDR, panorama","Yes, with stereo speakers","Yes, with A-GPS, GLONASS, BDS, GALILEO","Aura Glow, Aura White, Aura Black, Aura Pink, Aura Red",1100.0,3500.0,12.0
+Samsung Galaxy Note 10,Samsung,Galaxy Note 10,2019-08-23,2019.0,6.3,256.0,12.0,"LED flash, auto-HDR, panorama","Yes, with stereo speakers","Yes, with A-GPS, GLONASS, BDS, GALILEO","Aura Glow, Aura White, Aura Black, Aura Pink, Aura Red",668.56,3500.0,8.0
 Samsung Galaxy A10s,Samsung,Galaxy A10s,2019-08-27,2019.0,6.2,32.0,13.0,"LED flash, panorama, HDR",Yes,"Yes, with A-GPS, GLONASS, GALILEO","Blue, Green, Red, Black",169.0,4000.0,2.0
 Samsung Galaxy A10e,Samsung,Galaxy A10e,2019-08-01,2019.0,5.83,32.0,8.0,"LED flash, panorama, HDR",Yes,"Yes, with A-GPS, GLONASS, GALILEO",Black,,3000.0,2.0
 Samsung Galaxy Tab S6,Samsung,Galaxy Tab S6,2019-08-01,2019.0,10.5,128.0,13.0,"HDR, panorama","Yes, with stereo speakers (4 speakers)","Yes, with A-GPS, GLONASS, BDS, GALILEO","Mountain Gray, Cloud Blue, Rose Blush",600.0,7040.0,6.0
@@ -6858,7 +6858,7 @@ Samsung Galaxy A8s,Samsung,Galaxy A8s,2018-12-01,2018.0,6.4,,24.0,"LED flash, pa
 Samsung Galaxy A6s,Samsung,Galaxy A6s,2018-11-01,2018.0,6.0,,12.0,"LED flash, panorama, HDR",Yes,"Yes, with A-GPS, GLONASS, BDS, GALILEO","Black, White, Blue, Pink, Red",270.0,3300.0,
 Samsung Galaxy A9 (2018),Samsung,Galaxy A9 (2018),2018-11-01,2018.0,6.3,,24.0,"LED flash, panorama, HDR",Yes,"Yes, with A-GPS, GLONASS, BDS, GALILEO","Caviar Black, Lemonade Blue, Bubblegum Pink",360.0,3800.0,
 Samsung Galaxy A7 (2018),Samsung,Galaxy A7 (2018),2018-10-01,2018.0,6.0,,24.0,"LED flash, panorama, HDR",Yes,"Yes, with A-GPS, GLONASS, BDS","Black, blue, gold, pink",280.0,3300.0,
-Samsung Galaxy Note9,Samsung,Galaxy Note9,2018-08-01,2018.0,6.4,,12.0,"LED flash, auto-HDR, panorama","Yes, with stereo speakers","Yes, with A-GPS, GLONASS, BDS, GALILEO","Metallic Copper, Lavender Purple, Ocean Blue, Midnight Black, Pure White, Alpine White",750.0,4000.0,
+Samsung Galaxy Note 9,Samsung,Galaxy Note 9,2018-08-01,2018.0,6.4,,12.0,"LED flash, auto-HDR, panorama","Yes, with stereo speakers","Yes, with A-GPS, GLONASS, BDS, GALILEO","Metallic Copper, Lavender Purple, Ocean Blue, Midnight Black, Pure White, Alpine White",750.0,4000.0,
 Samsung Galaxy J6+,Samsung,Galaxy J6+,2018-10-01,2018.0,6.0,,13.0,"LED flash, panorama, HDR",Yes,"Yes, with A-GPS, GLONASS, BDS","Black, Gray, Red, Blue",240.0,3300.0,
 Samsung Galaxy J4 Core,Samsung,Galaxy J4 Core,2018-11-01,2018.0,6.0,,8.0,"LED flash, panorama, HDR",Yes,"Yes, with A-GPS, GLONASS, BDS","Black, Gold, Blue",150.0,3300.0,
 Samsung Galaxy J4+,Samsung,Galaxy J4+,2018-10-01,2018.0,6.0,,13.0,"LED flash, panorama, HDR",Yes,"Yes, with A-GPS, GLONASS, BDS","Black, Gold, Pink, Blue",190.0,3300.0,
@@ -6884,7 +6884,7 @@ Samsung Galaxy J2 (2017),Samsung,Galaxy J2 (2017),2017-10-01,2017.0,4.7,,5.0,LED
 Samsung Galaxy Tab Active 2,Samsung,Galaxy Tab Active 2,2017-11-01,2017.0,8.0,,8.0,"LED flash, HDR, panorama","Yes, with stereo speakers","Yes, with A-GPS, GLONASS",Black,390.0,4450.0,
 Samsung Galaxy Tab A 8.0 (2017),Samsung,Galaxy Tab A 8.0 (2017),2017-09-01,2017.0,8.0,,8.0,"LED flash, HDR",Yes,"Yes, with A-GPS, GLONASS, BDS","Black, Gold",200.0,5000.0,
 Samsung Galaxy C7 (2017),Samsung,Galaxy C7 (2017),2017-10-01,2017.0,5.5,,13.0,"LED flash, panorama, HDR",Yes,"Yes, with A-GPS, GLONASS","Gold, Black, Pink",280.0,3000.0,
-Samsung Galaxy Note8,Samsung,Galaxy Note8,2017-09-01,2017.0,6.3,,12.0,"LED flash, auto-HDR, panorama",Yes,"Yes, with A-GPS, GLONASS, BDS, GALILEO","Midnight Black, Maple Gold, Orchid Gray, Deep Sea Blue, Star Pink (Taiwan only)",550.0,3300.0,
+Samsung Galaxy Note 8,Samsung,Galaxy Note 8,2017-09-01,2017.0,6.3,,12.0,"LED flash, auto-HDR, panorama",Yes,"Yes, with A-GPS, GLONASS, BDS, GALILEO","Midnight Black, Maple Gold, Orchid Gray, Deep Sea Blue, Star Pink (Taiwan only)",550.0,3300.0,
 Samsung Galaxy S8 Active,Samsung,Galaxy S8 Active,2017-08-01,2017.0,5.8,,12.0,"LED flash, auto-HDR, panorama",Yes,"Yes, with A-GPS, GLONASS","Meteor Gray, Tungsten Gold",,4000.0,
 Samsung Galaxy J7 V,Samsung,Galaxy J7 V,2017-03-01,2017.0,5.5,,8.0,"LED flash, panorama, HDR",Yes,"Yes, with A-GPS, GLONASS","Gray (Verizon), Black (Sprint)",,3300.0,
 Samsung Galaxy Note FE,Samsung,Galaxy Note FE,2017-07-01,2017.0,5.7,,12.0,"LED flash, auto-HDR, panorama",Yes,"Yes, with A-GPS, GLONASS, BDS, GALILEO","Black Onyx, Blue Coral, Gold Platinum, Silver Titanium",600.0,3200.0,
@@ -6918,8 +6918,8 @@ Samsung Gear S3 frontier LTE,Samsung,Gear S3 frontier LTE,2016-11-01,2016.0,1.3,
 Samsung Galaxy J5 Prime,Samsung,Galaxy J5 Prime,2016-10-01,2016.0,5.0,,13.0,"LED flash, panorama, HDR",Yes,"Yes, with A-GPS, GLONASS/ BDS (region dependent)","Black, Gold",120.0,2400.0,
 Samsung Galaxy J7 Prime,Samsung,Galaxy J7 Prime,2016-09-01,2016.0,5.5,,13.0,"LED flash, panorama, HDR",Yes,"Yes, with A-GPS, GLONASS, BDS","Black, Gold, Rose Gold",140.0,3300.0,
 Samsung Z2,Samsung,Z2,2016-08-01,2016.0,4.0,,5.0,LED flash,Yes,"Yes, with A-GPS, GLONASS","Gold, Black, Red",80.0,1500.0,
-Samsung Galaxy Note7 (USA),Samsung,Galaxy Note7 (USA),2016-08-01,2016.0,5.7,,12.0,"LED flash, auto-HDR, panorama",Yes,"Yes, with A-GPS, GLONASS","Blue Coral, Silver Titanium, Black Onyx",760.0,3500.0,
-Samsung Galaxy Note7,Samsung,Galaxy Note7,2016-09-01,2016.0,5.7,,12.0,"LED flash, auto-HDR, panorama",Yes,"Yes, with A-GPS, GLONASS, BDS, GALILEO","Blue Coral, Gold Platinum, Silver Titanium, Black Onyx",850.0,3500.0,
+Samsung Galaxy Note 7 (USA),Samsung,Galaxy Note 7 (USA),2016-08-01,2016.0,5.7,,12.0,"LED flash, auto-HDR, panorama",Yes,"Yes, with A-GPS, GLONASS","Blue Coral, Silver Titanium, Black Onyx",760.0,3500.0,
+Samsung Galaxy Note 7,Samsung,Galaxy Note 7,2016-09-01,2016.0,5.7,,12.0,"LED flash, auto-HDR, panorama",Yes,"Yes, with A-GPS, GLONASS, BDS, GALILEO","Blue Coral, Gold Platinum, Silver Titanium, Black Onyx",850.0,3500.0,
 Samsung Galaxy On7 Pro,Samsung,Galaxy On7 Pro,2016-07-01,2016.0,5.5,,13.0,LED flash,Yes,"Yes, with A-GPS, GLONASS/ BDS (region dependent)","White, Black, Gold",150.0,3000.0,
 Samsung Galaxy On5 Pro,Samsung,Galaxy On5 Pro,2016-07-01,2016.0,5.0,,8.0,LED flash,Yes,"Yes, with A-GPS, GLONASS","White, Black",120.0,2600.0,
 Samsung Galaxy Tab J,Samsung,Galaxy Tab J,2016-08-01,2016.0,7.0,,8.0,"LED flash, HDR, panorama",Yes,"Yes, with A-GPS, GLONASS","White, Gold",,4000.0,
@@ -6957,9 +6957,9 @@ Samsung Galaxy On5,Samsung,Galaxy On5,2015-11-01,2015.0,5.0,,8.0,LED flash,Yes,"
 Samsung Z3,Samsung,Z3,2015-10-01,2015.0,5.0,,8.0,"LED flash, panorama, HDR",Yes,"Yes, with A-GPS, GLONASS","Black, Silver, Gold",110.0,2600.0,
 Samsung Galaxy J1 Ace,Samsung,Galaxy J1 Ace,2015-10-01,2015.0,4.3,,5.0,"LED flash, panorama",Yes,"Yes, with A-GPS, GLONASS","White, Black, Blue",140.0,1900.0,
 Samsung Gear S2 3G,Samsung,Gear S2 3G,2015-10-01,2015.0,1.2,,,,Yes,"Yes, with A-GPS","Dark Gray, Silver",300.0,300.0,
-Samsung Galaxy Note5 (USA),Samsung,Galaxy Note5 (USA),2015-08-01,2015.0,5.7,,16.0,"LED flash, panorama, HDR",Yes,"Yes, with A-GPS, GLONASS","Black Sapphire, White Pearl",540.0,3000.0,
-Samsung Galaxy Note5,Samsung,Galaxy Note5,2015-08-01,2015.0,5.7,,16.0,"LED flash, panorama, HDR",Yes,"Yes, with A-GPS, GLONASS, BDS","Black Sapphire, Gold Platinum, Silver Titan, White Pearl",470.0,3000.0,
-Samsung Galaxy Note5 Duos,Samsung,Galaxy Note5 Duos,2015-08-01,2015.0,5.7,,16.0,"LED flash, panorama, HDR",Yes,"Yes, with A-GPS, GLONASS, BDS","Black Sapphire, Gold Platinum, Silver Titan, White Pearl",600.0,3000.0,
+Samsung Galaxy Note 5 (USA),Samsung,Galaxy Note 5 (USA),2015-08-01,2015.0,5.7,,16.0,"LED flash, panorama, HDR",Yes,"Yes, with A-GPS, GLONASS","Black Sapphire, White Pearl",540.0,3000.0,
+Samsung Galaxy Note 5,Samsung,Galaxy Note 5,2015-08-01,2015.0,5.7,,16.0,"LED flash, panorama, HDR",Yes,"Yes, with A-GPS, GLONASS, BDS","Black Sapphire, Gold Platinum, Silver Titan, White Pearl",470.0,3000.0,
+Samsung Galaxy Note 5 Duos,Samsung,Galaxy Note 5 Duos,2015-08-01,2015.0,5.7,,16.0,"LED flash, panorama, HDR",Yes,"Yes, with A-GPS, GLONASS, BDS","Black Sapphire, Gold Platinum, Silver Titan, White Pearl",600.0,3000.0,
 Samsung Galaxy S6 edge+ (USA),Samsung,Galaxy S6 edge+ (USA),2015-08-01,2015.0,5.7,,16.0,"LED flash, auto-HDR, panorama",Yes,"Yes, with A-GPS, GLONASS","Black Sapphire, Gold Platinum",550.0,3000.0,
 Samsung Galaxy S6 edge+,Samsung,Galaxy S6 edge+,2015-08-01,2015.0,5.7,,16.0,"LED flash, auto-HDR, panorama",Yes,"Yes, with A-GPS, GLONASS, BDS","Black Sapphire, Gold Platinum, Silver Titan, White Pearl, Pink",530.0,3000.0,
 Samsung Galaxy S6 edge+ Duos,Samsung,Galaxy S6 edge+ Duos,2015-08-01,2015.0,5.7,,16.0,"LED flash, auto-HDR, panorama",Yes,"Yes, with A-GPS, GLONASS, BDS","Black Sapphire, Gold Platinum, Silver Titan, White Pearl",530.0,3000.0,
@@ -8883,7 +8883,7 @@ vivo Y31,vivo,Y31,2015-10-01,2015.0,4.7,,8.0,"LED flash, HDR",Yes,"Yes, with A-G
 vivo Y35,vivo,Y35,2015-07-01,2015.0,5.0,,13.0,"LED flash, HDR, panorama",Yes,"Yes, with A-GPS",White/Gold,100.0,2300.0,
 vivo Y37,vivo,Y37,2015-08-01,2015.0,5.5,,13.0,"LED flash, HDR, panorama",Yes,"Yes, with A-GPS",White,,2720.0,
 vivo X5Max Platinum Edition,vivo,X5Max Platinum Edition,2015-06-01,2015.0,5.5,,13.0,"LED flash, panorama, HDR",Yes,"Yes, with A-GPS",White,440.0,4150.0,
-vivo X5Pro,vivo,X5Pro,2015-06-01,2015.0,5.2,,13.0,"LED flash, panorama, HDR",Yes,"Yes, with A-GPS, GLONASS","Black, White",300.0,2450.0,
+vivo X5 Pro,vivo,X5 Pro,2015-06-01,2015.0,5.2,,13.0,"LED flash, panorama, HDR",Yes,"Yes, with A-GPS, GLONASS","Black, White",300.0,2450.0,
 vivo X5Max+,vivo,X5Max+,2015-03-01,2015.0,5.5,,13.0,"LED flash, panorama, HDR",Yes,"Yes, with A-GPS",White,430.0,2300.0,
 vivo X5Max,vivo,X5Max,2014-12-01,2014.0,5.5,,13.0,"LED flash, panorama, HDR",Yes,"Yes, with A-GPS",White,470.0,2300.0,
 vivo Y11,vivo,Y11,2014-12-01,2014.0,4.0,,5.0,LED flash,Yes,"Yes, with A-GPS","White, Black",70.0,1700.0,
