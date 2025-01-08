@@ -12,7 +12,7 @@ Asus Zenfone 7,,,2020-09-01,2020.0,6.67,128.0,64.0,"64 MP, f/1.8, 26mm (wide), 1
 Asus Zenfone 4 Selfie ZB553KL,,,2017-11-01,2017.0,5.5,32.0,13.0,"13 MP, PDAF",Yes,"GPS, GLONASS, BDS","Deepsea Black, Rose Pink, Sunlight Gold",150.0,3000.0,3.0
 Asus Zenfone Go ZB450KL,,,2016-08-01,2016.0,4.5,8.0,8.0,"8 MP, f/2.0, AF",Yes,"GPS, GLONASS, BDS","Glacier Grey/Silver, Blue/Sheer Gold, Charcoal Black, Pearl White, Glamor Red, Lemon Yellow",110.0,2070.0,1.0
 Asus Pegasus,,,2015-05-01,2015.0,5.0,8.0,8.0,"8 MP, f/2.0, AF",Yes,GPS,"Black, White, Red, Gold",80.0,2500.0,2.0
-Asus P550,,,,,3.5,0.2490272373540856,2.0,2 MP,No,"GPS, SiRF Star III chipset",Silver,220.0,1530.0,0.0622568093385214
+Asus P550,,,2007-01-01,2007.0,3.5,0.2490272373540856,2.0,2 MP,No,"GPS, SiRF Star III chipset",Silver,220.0,1530.0,0.0622568093385214
 Garmin-Asus nuvifone M10,,,2010-03-01,2010.0,3.5,4.0,5.0,"5 MP, AF",Yes,"GPS, A-GPS","Black, White",310.0,1500.0,0.4980544747081712
 Gionee M7,,,2017-09-01,2017.0,6.01,64.0,16.0,"16 MP, AF__8 MP",Yes,GPS,"Sapphire Blue, Star Blue, Maple Red, Champagne Gold, Black",360.0,4000.0,6.0
 Gionee S8,,,2016-06-01,2016.0,5.5,64.0,16.0,"16 MP, f/1.8, PDAF",Yes,GPS,"Gray, Gold, Rose Gold",450.0,3000.0,4.0
@@ -29,7 +29,7 @@ HTC Titan II,,,2012-04-01,2012.0,4.7,16.0,16.0,"16 MP, AF",Yes,"GPS, A-GPS; Bing
 HTC EVO 3D CDMA,,,2011-06-01,2011.0,4.3,4.0,5.0,"5 MP, AF",Yes,"GPS, A-GPS","Black, plum",220.0,1730.0,1.0
 HTC Desire Z,,,2010-11-01,2010.0,3.7,5.0,5.0,"5 MP, AF",Yes,"GPS, A-GPS",Black,100.0,1300.0,0.4980544747081712
 HTC Magic,,,2009-05-01,2009.0,3.2,0.2801556420233463,15.0,"3.15 MP, AF",Yes,GPS,"White, Black",90.0,1340.0,0.2801556420233463
-HTC TyTN II,,,,,2.8,0.1245136186770428,15.0,"3.15 MP, AF",Yes,"GPS, A-GPS",Silver,140.0,1350.0,0.1245136186770428
+HTC TyTN II,,,2007-01-01,2007.0,2.8,0.1245136186770428,15.0,"3.15 MP, AF",Yes,"GPS, A-GPS",Silver,140.0,1350.0,0.1245136186770428
 HTC Ignite,,,,,3.7,0.4980544747081712,5.0,"5 MP, AF",Yes,"GPS, A-GPS; Bing Maps",Black,,,0.4980544747081712
 Infinix Smart 8 HD,,,2023-12-13,2023.0,6.6,64.0,13.0,"13 MP, f/1.8, 27mm (wide), AF__0.08 MP, (auxiliary lens)",Yes,GPS,"Timber Black, Shiny Gold, Crystal Green, Galaxy White",,5000.0,3.0
 Infinix Note 12 (2023),,,2022-10-06,2022.0,6.7,128.0,50.0,"50 MP, f/1.6, (wide), PDAF__2 MP, f/2.4, (depth)__QVGA","Yes, with dual speakers",GPS,"Volcanic Grey, Tuscany Blue, Alpine White",220.0,5000.0,8.0
@@ -46,12 +46,12 @@ Lenovo Tab 2 A7-20,,,2015-01-01,2015.0,7.0,8.0,2.0,2 MP,Yes,GPS,Black,100.0,3450
 Lenovo A316i,,,2014-04-01,2014.0,4.0,4.0,2.0,2 MP,Yes,GPS,Black,50.0,1300.0,0.4980544747081712
 Lenovo A390,,,2013-04-01,2013.0,4.0,4.0,5.0,5 MP,Yes,GPS,"Black, White",70.0,1500.0,0.4980544747081712
 Lenovo K860,,,2012-08-01,2012.0,5.0,8.0,8.0,"8 MP, AF",Yes,"GPS, A-GPS","Black, Red",290.0,2250.0,1.0
-LG W11,,,,,6.52,32.0,13.0,"13 MP, (wide), PDAF__2 MP, (depth)",Yes,"GPS, GLONASS",Midnight Blue,110.0,4000.0,3.0
+LG W11,,,2020-01-01,2020.0,6.52,32.0,13.0,"13 MP, (wide), PDAF__2 MP, (depth)",Yes,"GPS, GLONASS",Midnight Blue,110.0,4000.0,3.0
 LG K41S,,,2020-04-27,2020.0,6.55,32.0,13.0,"13 MP, f/2.0, 28mm (wide), PDAF__5 MP, f/2.2, 115˚, (ultrawide)__2 MP, f/2.4, (macro)__2 MP, f/2.4, (depth)",Yes,GPS,"Titanium, Black, White",220.0,4000.0,3.0
 LG CT810 Incite,,,2009-06-01,2009.0,3.0,0.1245136186770428,15.0,3.15 MP,Yes,"GPS, A-GPS",,70.0,1030.0,0.1245136186770428
 LG KF240,,,2009-03-01,2009.0,2.0,0.019455252918287938,2.0,2 MP,Yes,No,Black,60.0,800.0,
-LG KP220,,,,,1.7,0.058365758754863814,3.0,1.3 MP,Yes,No,Silver,50.0,750.0,
-LG KE770 Shine,,,,,1.77,0.06809338521400778,2.0,"2 MP, AF",No,No,Silver,70.0,800.0,
+LG KP220,,,2008-01-01,2008.0,1.7,0.058365758754863814,3.0,1.3 MP,Yes,No,Silver,50.0,750.0,
+LG KE770 Shine,,,2007-01-01,2007.0,1.77,0.06809338521400778,2.0,"2 MP, AF",No,No,Silver,70.0,800.0,
 LG Tribute Empire,,,2019-01-01,2019.0,5.0,16.0,8.0,"8 MP, AF",Yes,GPS,White,70.0,2500.0,2.0
 LG X power2,,,2017-06-01,2017.0,5.5,16.0,13.0,"13 MP, 1/3.1"", 1.12µm, AF",Yes,"GPS, GLONASS","Black Titan, Shiny Titan, Shiny Gold, Shiny Blue",180.0,4500.0,5.0
 LG X cam,,,2016-06-01,2016.0,5.2,16.0,13.0,"13 MP, f/2.0, AF__5 MP, f/2.4, (depth)",Yes,"GPS, GLONASS","Titan Silver, White, Gold, Pink Gold",210.0,2520.0,2.0
@@ -66,16 +66,16 @@ LG T315,,,2011-04-01,2011.0,2.8,0.019455252918287938,2.0,2 MP,Yes,No,"Black, Whi
 LG Cosmos Touch VN270,,,2010-12-01,2010.0,2.8,,3.0,1.3 MP,Yes,No,Black,,1000.0,
 LG Wink 3G T320,,,2010-08-01,2010.0,2.8,0.029182879377431907,2.0,2 MP,Yes,No,"Black&Red, Black&Titan Silver, Black&Pink, Black&Aqua Blue",50.0,900.0,
 LG KP108,,,2010-04-01,2010.0,1.52,,,No,Yes,No,"Blue on Black, Red on Black",30.0,900.0,
-LG 8575 Samba,,,,,3.0,1.0,15.0,3.15 MP,Yes,No,"Black, Bronze",,1000.0,
+LG 8575 Samba,,,2009-01-01,2009.0,3.0,1.0,15.0,3.15 MP,Yes,No,"Black, Bronze",,1000.0,
 LG GB125,,,2009-07-01,2009.0,1.5,,,No,Yes,No,Black,40.0,950.0,
 Motorola Moto G45,,,2024-08-28,2024.0,6.5,128.0,50.0,"50 MP, f/1.8 (wide), 1/2.76"", 0.64µm, PDAF__2 MP, f/2.4, (macro)","Yes, with stereo speakers","GPS, GALILEO, GLONASS, QZSS","Brilliant Blue, Brilliant Green, Viva Magenta",,5000.0,4.0
 Motorola Edge (2023),,,2023-10-11,2023.0,6.6,256.0,50.0,"50 MP, f/1.4, (wide), 1/1.5"", 1.0µm, multi-directional PDAF, OIS__13 MP, f/2.2, 120˚ (ultrawide), 1.12µm, AF","Yes, with stereo speakers","GPS, GLONASS, GALILEO",Eclipse Black,,4400.0,8.0
-Motorola W205,,,,,,0.0009727626459143969,,No,Yes,No,,30.0,850.0,
-Motorola E1070,,,,,2.0,,3.0,1.3 MP,No,No,"Black, Silver",,1130.0,
-Motorola L2,,,,,1.8,0.009727626459143969,,No,No,No,Diamond Dust,,820.0,
-Motorola C650,,,,,,0.0048638132295719845,,VGA,Yes,No,"2 - Midnight Blue, Cosmic Universe Blue",,800.0,
-Motorola A925,,,,,,0.011673151750972763,,VGA,No,GPS,,,1050.0,
-Motorola A388c,,,,,,0.006809338521400778,,No,No,No,"silver, black",,,
+Motorola W205,,,2007-01-01,2007.0,,0.0009727626459143969,,No,Yes,No,,30.0,850.0,
+Motorola E1070,,,2005-01-01,2005.0,2.0,,3.0,1.3 MP,No,No,"Black, Silver",,1130.0,
+Motorola L2,,,2005-01-01,2005.0,1.8,0.009727626459143969,,No,No,No,Diamond Dust,,820.0,
+Motorola C650,,,2004-01-01,2004.0,,0.0048638132295719845,,VGA,Yes,No,"2 - Midnight Blue, Cosmic Universe Blue",,800.0,
+Motorola A925,,,2003-01-01,2003.0,,0.011673151750972763,,VGA,No,GPS,,,1050.0,
+Motorola A388c,,,2003-01-01,2003.0,,0.006809338521400778,,No,No,No,"silver, black",,,
 Motorola Moto G23,,,2023-01-24,2023.0,6.5,64.0,50.0,"50 MP, f/1.8, (wide), 0.64µm, PDAF__5 MP, f/2.2, 118˚ (ultrawide)__2 MP, f/2.4, (macro)","Yes, with stereo speakers","GPS, GLONASS, GALILEO","Matte Charcoal, Pearl White, Steel Blue",136.79,5000.0,4.0
 Motorola Moto G71s,,,2022-06-20,2022.0,6.6,128.0,50.0,"50 MP, f/1.8 (wide), 1/2.76"", 0.64µm, PDAF, OIS__8 MP, f/2.2, 121˚ (ultrawide), 1/4.0"", 1.12µm__2 MP, f/2.4, (macro)","Yes, with stereo speakers","GPS, GLONASS, GALILEO","Black, White",240.0,5000.0,8.0
 Motorola Tab G20,,,2021-10-02,2021.0,8.0,32.0,5.0,"5 MP, AF",Yes,"GPS, GLONASS",Platinum Grey,130.0,5100.0,3.0
@@ -92,15 +92,15 @@ Motorola FLIPSIDE MB508,,,2010-11-01,2010.0,3.1,0.4980544747081712,15.0,3.15 MP,
 Motorola MILESTONE XT720,,,2010-07-01,2010.0,3.7,0.4980544747081712,8.0,"8 MP, AF",Yes,"GPS, A-GPS",Black Slate,190.0,1390.0,0.2490272373540856
 Motorola Motocubo A45,,,2009-10-01,2009.0,2.5,0.0311284046692607,2.0,2 MP,Yes,No,White,100.0,930.0,
 Motorola EM30,,,2008-09-01,2008.0,2.0,,2.0,2 MP,Yes,No,Black,60.0,970.0,
-Motorola W213,,,,,1.55,0.0009727626459143969,,No,No,No,Black,70.0,,
+Motorola W213,,,2007-01-01,2007.0,1.55,0.0009727626459143969,,No,No,No,Black,70.0,,
 Nokia G310,,,2023-08-24,2023.0,6.56,128.0,50.0,"50 MP, (wide), AF__2 MP, f/2.4, (macro)__2 MP, f/2.4, (depth)",Yes,GPS (L1+L5),Blue,170.0,5000.0,4.0
 Nokia C31,,,2022-09-01,2022.0,6.75,32.0,13.0,"13 MP, (wide), AF__2 MP, (macro)__2 MP, (depth)",Yes,GPS,"Charcoal, Mint, Cyan",130.0,5050.0,3.0
-Nokia 6282,,,,,2.2,0.009727626459143969,1.0,1 MP,Yes,No,Black,110.0,970.0,
-Nokia 1101,,,,,,,,No,No,No,Xpress-on covers,40.0,850.0,
-Nokia 3220,,,,,1.5,0.0029182879377431907,,VGA,Yes,No,"Red, Blue",,760.0,
-Nokia 3300,,,,,1.7,0.0048638132295719845,,No,Yes,No,Orange and Black Blue,,780.0,
-Nokia 5210,,,,,,,,No,No,No,"Burned Orange, four Xpress-on shells as accessories",,750.0,
-Nokia 8110,,,,,,,,No,No,No,black,,400.0,
+Nokia 6282,,,2005-01-01,2005.0,2.2,0.009727626459143969,1.0,1 MP,Yes,No,Black,110.0,970.0,
+Nokia 1101,,,2005-01-01,2005.0,,,,No,No,No,Xpress-on covers,40.0,850.0,
+Nokia 3220,,,2004-01-01,2004.0,1.5,0.0029182879377431907,,VGA,Yes,No,"Red, Blue",,760.0,
+Nokia 3300,,,2003-01-01,2003.0,1.7,0.0048638132295719845,,No,Yes,No,Orange and Black Blue,,780.0,
+Nokia 5210,,,2002-01-01,2002.0,,,,No,No,No,"Burned Orange, four Xpress-on shells as accessories",,750.0,
+Nokia 8110,,,1996-01-01,1996.0,,,,No,No,No,black,,400.0,
 Nokia C20 Plus,,,2021-06-16,2021.0,6.5,32.0,8.0,"8 MP__2 MP, (depth)",Yes,GPS,"Ocean Blue, Graphite black",90.0,4950.0,3.0
 Nokia 125,,,2020-05-29,2020.0,2.4,0.0038910505836575876,,No,Yes,No,"Black, White",20.0,1020.0,
 Nokia 1 Plus,,,2019-02-24,2019.0,5.45,8.0,8.0,"8 MP, AF",Yes,"GPS, GLONASS","Black, Red, Blue",80.0,2500.0,1.0
@@ -109,14 +109,14 @@ Nokia 225 Dual SIM,,,2014-05-01,2014.0,2.8,,2.0,"2 MP, 1/5.0""",Yes,No,"Red, yel
 Nokia Lumia 625,,,2013-08-01,2013.0,4.7,8.0,5.0,"5 MP, f/2.4, 28mm (wide), 1/4.0"", AF",Yes,"GPS, GLONASS","Orange, Bright green, Yellow, Black and white",160.0,2000.0,0.4980544747081712
 Nokia Lumia 920,,,2012-11-01,2012.0,4.5,32.0,8.0,"8 MP, f/2.0, 26mm (wide), 1/3.0"", AF, OIS",Yes,"GPS, A-GPS, GLONASS","Black, Gray, Red, Yellow, White",210.0,2000.0,1.0
 Nokia Asha 303,,,2011-12-01,2011.0,2.6,0.16536964980544747,2.0,3.2 MP,Yes,No,"Red, Graphite, Silver White, Aqua, Green, Purple",110.0,1300.0,0.1245136186770428
-Nokia N950,,,,,4.0,5.0,12.0,"12 MP, AF",Yes,"GPS, A-GPS; Ovi Maps",Black,,1320.0,1.0
+Nokia N950,,,2011-01-01,2011.0,4.0,5.0,12.0,"12 MP, AF",Yes,"GPS, A-GPS; Ovi Maps",Black,,1320.0,1.0
 Nokia C1-00,,,2010-09-01,2010.0,1.8,,,No,Yes,No,"Medium Blue, Red, Light Gray, Sea Green",30.0,1020.0,
 Nokia N97 mini,,,2009-11-01,2009.0,3.2,8.0,5.0,"5 MP, AF","Yes, with stereo speakers","GPS, A-GPS; Nokia Maps","Gold, Cherry Black, Garnet, White",120.0,1200.0,0.1245136186770428
 Nokia N86 8MP,,,2009-06-01,2009.0,2.6,8.0,8.0,"8 MP, AF","Yes, with stereo speakers","GPS, A-GPS; Ovi Maps 3.0","Indigo Black, White",180.0,1200.0,0.1245136186770428
 Nokia 8800 Carbon Arte,,,2008-09-01,2008.0,2.0,4.0,15.0,"3.15 MP, AF",Yes,No,Black,840.0,1000.0,
 Nokia 6124 classic,,,2008-06-01,2008.0,2.0,0.03404669260700389,2.0,2 MP,Yes,No,"Black, White",140.0,890.0,0.0622568093385214
 Nokia 6500 slide,,,2007-09-01,2007.0,2.2,0.019455252918287938,15.0,"3.15 MP, AF",Yes,No,"Steel, Black",140.0,900.0,
-Nokia N93i,,,,,2.4,0.048638132295719845,15.0,"3.15 MP, 3x optical zoom, AF",Yes,No,"Silver, Black",340.0,950.0,0.0622568093385214
+Nokia N93i,,,2007-01-01,2007.0,2.4,0.048638132295719845,15.0,"3.15 MP, 3x optical zoom, AF",Yes,No,"Silver, Black",340.0,950.0,0.0622568093385214
 OnePlus Ace 5,,,2024-12-26,2024.0,6.78,256.0,50.0,"50 MP, f/1.8, 24mm (wide), 1/1.56"", 1.0µm, PDAF, OIS__8 MP, f/2.2, 16mm, 112˚ (ultrawide), 1/4.0"", 1.12µm__2 MP, f/2.4, (macro)","Yes, with stereo speakers","GPS (L1+L5), GLONASS (G1), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5)","Gray, White, Green",300.0,6415.0,12.0
 OnePlus Nord N20 SE,,,2022-08-08,2022.0,6.56,64.0,50.0,"50 MP, f/1.8, (wide), 1/2.76"", 0.64µm, PDAF__2 MP, f/2.4, (depth)","Yes, with dual speakers","GPS, GLONASS, BDS, GALILEO, QZSS","Blue Oasis, Celestial Black",,5000.0,4.0
 OnePlus 8,,,2020-04-21,2020.0,6.55,128.0,48.0,"48 MP, f/1.8, 26mm (wide), 1/2.0"", 0.8µm, PDAF, OIS__16 MP, f/2.2, 14mm, 116˚ (ultrawide), 1/3.6"", 1.0µm__2 MP, f/2.4, (macro)","Yes, with stereo speakers","GPS (L1+L5), GLONASS (G1), BDS (B1), GALILEO (E1+E5a)","Onyx Black, Glacial Green, Interstellar Glow, Polar Silver",,4300.0,6.0
@@ -290,8 +290,8 @@ BlackBerry Torch 9860,,,2011-09-01,2011.0,3.7,4.0,5.0,"5 MP, AF",Yes,"GPS, A-GPS
 BlackBerry Torch 9850,,,2011-08-01,2011.0,3.7,4.0,5.0,"5 MP, AF",Yes,"GPS, A-GPS",Black,130.0,1230.0,0.7470817120622568
 BlackBerry Bold Touch 9900,,,2011-08-01,2011.0,2.8,8.0,5.0,5 MP,Yes,"GPS, A-GPS, BlackBerry Maps","Black, White",140.0,1230.0,0.7470817120622568
 BlackBerry Bold Touch 9930,,,2011-08-01,2011.0,2.8,8.0,5.0,5 MP,Yes,"GPS, A-GPS, BlackBerry Maps",Black,120.0,1230.0,0.7470817120622568
-BlackBerry 4G Playbook HSPA+,,,,,7.0,16.0,5.0,"5 MP, AF","Yes, with stereo speakers",No,Black,,5300.0,1.0
-BlackBerry Playbook Wimax,,,,,7.0,16.0,5.0,"5 MP, AF","Yes, with stereo speakers",No,Black,,5300.0,1.0
+BlackBerry 4G Playbook HSPA+,,,2011-01-01,2011.0,7.0,16.0,5.0,"5 MP, AF","Yes, with stereo speakers",No,Black,,5300.0,1.0
+BlackBerry Playbook Wimax,,,2010-01-01,2010.0,7.0,16.0,5.0,"5 MP, AF","Yes, with stereo speakers",No,Black,,5300.0,1.0
 BlackBerry Playbook,,,2011-04-01,2011.0,7.0,16.0,5.0,"5 MP, AF","Yes, with stereo speakers",GPS,Black,120.0,5300.0,1.0
 BlackBerry Bold 9780,,,2010-11-01,2010.0,2.44,0.2490272373540856,5.0,"5 MP, AF",Yes,"GPS, A-GPS","Black, White",90.0,1500.0,0.4980544747081712
 BlackBerry Style 9670,,,2010-11-01,2010.0,,0.4980544747081712,5.0,"5 MP, AF",Yes,"GPS, A-GPS","Steel Grey, Royal Purple",50.0,1150.0,
@@ -307,39 +307,39 @@ BlackBerry Storm2 9550,,,2009-11-01,2009.0,3.25,2.0,15.0,"3.15 MP, AF",Yes,"GPS,
 BlackBerry Curve 8530,,,2009-12-01,2009.0,2.46,0.2490272373540856,2.0,2 MP,Yes,"GPS, A-GPS","Black, Purple",60.0,1150.0,
 BlackBerry Curve 8520,,,2009-08-01,2009.0,2.46,0.2490272373540856,2.0,2 MP,Yes,No,Black,70.0,1150.0,
 BlackBerry Tour 9630,,,2009-07-01,2009.0,2.4,0.2490272373540856,15.0,"3.15 MP, AF",Yes,"GPS, A-GPS, BlackBerry Maps",Black,70.0,1400.0,
-BlackBerry Curve 8980,,,,,2.4,0.2490272373540856,15.0,"3.15 MP, AF",Yes,"GPS, A-GPS",Black,70.0,,
+BlackBerry Curve 8980,,,2012-01-01,2012.0,2.4,0.2490272373540856,15.0,"3.15 MP, AF",Yes,"GPS, A-GPS",Black,70.0,,
 BlackBerry Curve 8900,,,2008-11-01,2008.0,2.4,0.2490272373540856,15.0,"3.15 MP, AF",Yes,"GPS, A-GPS",Black,60.0,1400.0,
 BlackBerry Storm3,,,,,3.7,8.0,5.0,"5 MP, AF",Yes,"GPS, A-GPS",Black,,1230.0,0.4980544747081712
 BlackBerry Storm 9500,,,2008-11-01,2008.0,3.25,1.0,15.0,"3.15 MP, AF",Yes,"GPS, A-GPS",Black,80.0,1400.0,0.1245136186770428
 BlackBerry Storm 9530,,,2008-11-01,2008.0,3.25,1.0,15.0,"3.15 MP, AF",Yes,"GPS, A-GPS",Black,100.0,1400.0,0.1245136186770428
 BlackBerry Pearl Flip 8230,,,2009-05-01,2009.0,2.6,0.1245136186770428,2.0,2 MP,Yes,No,"Black, Red, Pink",70.0,900.0,0.1245136186770428
 BlackBerry Pearl Flip 8220,,,2008-10-01,2008.0,2.6,0.07295719844357977,2.0,2 MP,Yes,No,Black,110.0,900.0,
-BlackBerry Bold 9000,,,,,2.6,1.0,2.0,2 MP,Yes,"GPS, A-GPS, BlackBerry Maps","Black, White",80.0,1500.0,0.1245136186770428
+BlackBerry Bold 9000,,,2008-01-01,2008.0,2.6,1.0,2.0,2 MP,Yes,"GPS, A-GPS, BlackBerry Maps","Black, White",80.0,1500.0,0.1245136186770428
 BlackBerry Volt,,,,,3.7,4.0,5.0,"5 MP, AF",Yes,"GPS, A-GPS",Black,,,0.7470817120622568
-BlackBerry Pearl 8130,,,,,2.2,0.0311284046692607,2.0,2 MP,Yes,"GPS, A-GPS","Black, White",,900.0,0.0311284046692607
+BlackBerry Pearl 8130,,,2007-01-01,2007.0,2.2,0.0311284046692607,2.0,2 MP,Yes,"GPS, A-GPS","Black, White",,900.0,0.0311284046692607
 BlackBerry Pearl 8110,,,2008-01-01,2008.0,2.2,0.0311284046692607,2.0,2 MP,Yes,GPS,"Black, Blue",110.0,900.0,0.0311284046692607
-BlackBerry Pearl 8120,,,,,2.2,0.0311284046692607,2.0,2 MP,Yes,No,"Titanium, Blue, Sunset",90.0,900.0,0.0311284046692607
+BlackBerry Pearl 8120,,,2007-01-01,2007.0,2.2,0.0311284046692607,2.0,2 MP,Yes,No,"Titanium, Blue, Sunset",90.0,900.0,0.0311284046692607
 BlackBerry Curve 8330,,,2007-12-01,2007.0,2.5,0.0311284046692607,2.0,2 MP,Yes,No,"Titanium, Pink, Black",,1150.0,
-BlackBerry Curve 8320,,,,,2.5,0.0622568093385214,2.0,2 MP,Yes,No,"Titanium, Pale Gold",140.0,1100.0,
-BlackBerry Curve 8310,,,,,2.5,0.0622568093385214,2.0,2 MP,Yes,GPS,Silver,130.0,1100.0,
-BlackBerry Curve 8300,,,,,2.5,0.0622568093385214,2.0,2 MP,Yes,No,Black,130.0,1100.0,
-BlackBerry 8820,,,,,2.5,0.0622568093385214,,No,Yes,GPS,Silver,110.0,1400.0,0.01556420233463035
-BlackBerry 8830 World Edition,,,,,2.5,0.0622568093385214,,No,Yes,GPS,Black,100.0,1400.0,0.01556420233463035
-BlackBerry 8800,,,,,2.5,0.0622568093385214,,No,Yes,GPS,Silver,120.0,,0.01556420233463035
-BlackBerry Pearl 8100,,,,,2.2,0.0622568093385214,3.0,1.3 MP,Yes,No,"Black, White, Red",200.0,900.0,
-BlackBerry 7130g,,,,,2.4,0.0622568093385214,,No,Yes,No,,,1100.0,0.01556420233463035
-BlackBerry 7130c,,,,,2.4,0.0622568093385214,,No,Yes,No,,,1100.0,0.01556420233463035
-BlackBerry 7130v,,,,,2.4,0.0622568093385214,,No,Yes,No,,,1100.0,0.01556420233463035
-BlackBerry 8707v,,,,,2.6,0.0622568093385214,,No,Yes,No,Silver,,1500.0,0.01556420233463035
-BlackBerry 8700c,,,,,2.6,0.0622568093385214,,No,Yes,No,,,1100.0,0.01556420233463035
-BlackBerry 7100x,,,,,2.2,0.0311284046692607,,No,Yes,No,,,,0.0038910505836575876
-BlackBerry 7100t,,,,,2.36,0.0311284046692607,,No,Yes,No,,,,0.0038910505836575876
-BlackBerry 7100v,,,,,2.37,0.0311284046692607,,No,Yes,No,,,,0.0038910505836575876
-BlackBerry 7290,,,,,2.6,0.0311284046692607,,No,No,No,"Cosmos Black, Satin Blue, Steel Blue",,,0.0038910505836575876
-BlackBerry 7730,,,,,3.0,0.01556420233463035,,No,Yes,No,,,,0.0019455252918287938
-BlackBerry 7230,,,,,2.6,0.01556420233463035,,No,Yes,No,,110.0,,0.0009727626459143969
-BlackBerry 6720,,,,,3.0,0.01556420233463035,,No,Yes,No,,,,0.0009727626459143969
-BlackBerry 6230,,,,,2.6,0.01556420233463035,,No,Yes,No,,,,0.0009727626459143969
+BlackBerry Curve 8320,,,2007-01-01,2007.0,2.5,0.0622568093385214,2.0,2 MP,Yes,No,"Titanium, Pale Gold",140.0,1100.0,
+BlackBerry Curve 8310,,,2007-01-01,2007.0,2.5,0.0622568093385214,2.0,2 MP,Yes,GPS,Silver,130.0,1100.0,
+BlackBerry Curve 8300,,,2007-01-01,2007.0,2.5,0.0622568093385214,2.0,2 MP,Yes,No,Black,130.0,1100.0,
+BlackBerry 8820,,,2007-01-01,2007.0,2.5,0.0622568093385214,,No,Yes,GPS,Silver,110.0,1400.0,0.01556420233463035
+BlackBerry 8830 World Edition,,,2007-01-01,2007.0,2.5,0.0622568093385214,,No,Yes,GPS,Black,100.0,1400.0,0.01556420233463035
+BlackBerry 8800,,,2007-01-01,2007.0,2.5,0.0622568093385214,,No,Yes,GPS,Silver,120.0,,0.01556420233463035
+BlackBerry Pearl 8100,,,2006-01-01,2006.0,2.2,0.0622568093385214,3.0,1.3 MP,Yes,No,"Black, White, Red",200.0,900.0,
+BlackBerry 7130g,,,2006-01-01,2006.0,2.4,0.0622568093385214,,No,Yes,No,,,1100.0,0.01556420233463035
+BlackBerry 7130c,,,2006-01-01,2006.0,2.4,0.0622568093385214,,No,Yes,No,,,1100.0,0.01556420233463035
+BlackBerry 7130v,,,2006-01-01,2006.0,2.4,0.0622568093385214,,No,Yes,No,,,1100.0,0.01556420233463035
+BlackBerry 8707v,,,2006-01-01,2006.0,2.6,0.0622568093385214,,No,Yes,No,Silver,,1500.0,0.01556420233463035
+BlackBerry 8700c,,,2004-01-01,2004.0,2.6,0.0622568093385214,,No,Yes,No,,,1100.0,0.01556420233463035
+BlackBerry 7100x,,,2005-01-01,2005.0,2.2,0.0311284046692607,,No,Yes,No,,,,0.0038910505836575876
+BlackBerry 7100t,,,2004-01-01,2004.0,2.36,0.0311284046692607,,No,Yes,No,,,,0.0038910505836575876
+BlackBerry 7100v,,,2004-01-01,2004.0,2.37,0.0311284046692607,,No,Yes,No,,,,0.0038910505836575876
+BlackBerry 7290,,,2004-01-01,2004.0,2.6,0.0311284046692607,,No,No,No,"Cosmos Black, Satin Blue, Steel Blue",,,0.0038910505836575876
+BlackBerry 7730,,,2004-01-01,2004.0,3.0,0.01556420233463035,,No,Yes,No,,,,0.0019455252918287938
+BlackBerry 7230,,,2003-01-01,2003.0,2.6,0.01556420233463035,,No,Yes,No,,110.0,,0.0009727626459143969
+BlackBerry 6720,,,2003-01-01,2003.0,3.0,0.01556420233463035,,No,Yes,No,,,,0.0009727626459143969
+BlackBerry 6230,,,2003-01-01,2003.0,2.6,0.01556420233463035,,No,Yes,No,,,,0.0009727626459143969
 BlackBerry Z20,,,,,5.0,16.0,8.0,"8 MP, AF",Yes,GPS,"Black, White",,2800.0,2.0
 BlackBerry A10,,,,,5.0,16.0,8.0,"8 MP, AF",Yes,GPS,Black,,2800.0,2.0
 BlackBerry Porsche Design P'9531,,,,,2.8,8.0,5.0,"5 MP, AF",Yes,"GPS, A-GPS",Black,,1000.0,0.7470817120622568
@@ -452,273 +452,63 @@ Huawei P30 Pro New Edition,,,2020-06-01,2020.0,6.47,128.0,40.0,"40 MP, f/1.6, 27
 Huawei Y8s,,,2020-05-21,2020.0,6.5,64.0,48.0,"48 MP, f/1.8, (wide), 1/2.0"", 0.8µm, PDAF__2 MP, f/2.4, (depth)",Yes,"GPS, GLONASS, BDS","Emerald Green, Midnight Black",140.0,4000.0,4.0
 Huawei Y6p,,,2020-05-06,2020.0,6.3,32.0,13.0,"13 MP, f/1.8, (wide), PDAF__5 MP, f/2.2, 120˚ (ultrawide)__2 MP, f/2.4, (depth)",Yes,"GPS, GLONASS, BDS","Phantom Purple, Emerald Green, Midnight Black",160.0,5000.0,3.0
 Huawei Y5p,,,2020-05-06,2020.0,5.45,32.0,8.0,"8 MP, f/2.0, (wide), AF",Yes,"GPS, GLONASS, BDS","Mint Green, Midnight Black, Phantom Blue",110.0,3020.0,2.0
-Asus ROG Phone 9,,,2024-11-20,2024.0,6.78,256.0,50.0,"50 MP, f/1.9, 24mm (wide), 1/1.56"", 1.0µm, PDAF, gimbal OIS__13 MP, f/2.2, 13mm, 120˚ (ultrawide)__5 MP, f/2.4, (macro)","Yes, with stereo speakers","GPS (L1+L5), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC (L5), GLONASS","Phantom Black, Storm White",1100.0,5800.0,12.0
-Asus Zenfone 11 Ultra,,,2024-04-14,2024.0,6.78,256.0,50.0,"50 MP, f/1.9, 24mm (wide), 1/1.56"", 1.0µm, PDAF, gimbal OIS__32 MP, f/2.4, 65mm (telephoto), 1/3.2"", 0.7µm, PDAF, OIS, 3x optical zoom__13 MP, f/2.2, 13mm, 120˚ (ultrawide), 1/3.0"", 1.12µm","Yes, with stereo speakers","GPS (L1+L5), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC, GLONASS","Eternal Black, Skyline Blue, Misty Gray, Desert Sand",799.99,5500.0,12.0
-Asus ROG Phone 8 Pro,,,2024-01-18,2024.0,6.78,512.0,50.0,"50 MP, f/1.9, 24mm (wide), 1/1.56"", 1.0µm, PDAF, gimbal OIS__32 MP, f/2.4, (telephoto), 1/3.2"", 0.7µm, PDAF, OIS, 3x optical zoom__13 MP, f/2.2, 13mm, 120˚ (ultrawide)","Yes, with stereo speakers","GPS (L1+L5), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC (L5), GLONASS",Phantom Black,,5500.0,16.0
-Asus ROG Phone 8,,,2024-01-18,2024.0,6.78,256.0,50.0,"- International model -__50 MP, f/1.9, 24mm (wide), 1/1.56"", 1.0µm, PDAF, gimbal OIS__32 MP, f/2.4, (telephoto), 1/3.2"", 0.7µm, PDAF, OIS, 3x optical zoom__13 MP, f/2.2, 13mm, 120˚ (ultrawide), 1/3.0"", 1.12µm___- SEA/China/India model -__50 MP, f/1.9, 24mm (wide), 1/1.56"", 1.0µm, PDAF, gimbal OIS__13 MP, f/2.2, 13mm, 120˚ (ultrawide), 1/3.0"", 1.12µm__5 MP, f/2.4, (macro)","Yes, with stereo speakers","GPS (L1+L5), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC (L5), GLONASS","Phantom Black, Rebel Grey",979.99,5500.0,12.0
-Asus Zenfone 10,,,2023-07-10,2023.0,5.92,128.0,50.0,"50 MP, f/1.9, 24mm (wide), 1/1.56"", 1.0µm, multi-directional PDAF, gimbal OIS__13 MP, f/2.2, 120° (ultrawide), 1/3.06"", 1.12µm","Yes, with stereo speakers","GPS (L1+L5), GLONASS (L1), BDS (B1I+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC (L5)","Starry Blue, Midnight Black, Aurora Green, Eclipse Red, Comet White",669.0,4300.0,8.0
-Asus ROG Phone 7 Ultimate,,,2023-05-01,2023.0,6.78,512.0,50.0,"50 MP, f/1.9, 24mm (wide), 1/1.56"", 1.0µm, PDAF__13 MP, f/2.2, 13mm, 120˚ (ultrawide)__5 MP, f/2.0, (macro)","Yes, with stereo speakers (2 amplifiers)","GPS (L1+L5), GLONASS (L1), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC (L5)",Storm White,,6000.0,16.0
-Asus ROG Phone 7,,,2023-05-01,2023.0,6.78,256.0,50.0,"50 MP, f/1.9, 24mm (wide), 1/1.56"", 1.0µm, PDAF__13 MP, f/2.2, 13mm, 120˚ (ultrawide)__5 MP, f/2.0, (macro)","Yes, with stereo speakers (2 amplifiers)","GPS (L1+L5), GLONASS (L1), BDS (B1I+B2a+B2c), GALILEO (E1+E5a), QZSS (L1+L5), NavIC (L5)","Phantom Black, Storm White",533.04,6000.0,12.0
-Asus ROG Phone 6D Ultimate,,,2022-10-07,2022.0,6.78,512.0,50.0,"50 MP, f/1.9, 24mm (wide), 1/1.56"", 1.0µm, PDAF__13 MP, f/2.2, 13mm (ultrawide)__5 MP, (macro)","Yes, with stereo speakers (2 amplifiers)","GPS (L1+L5), GLONASS (L1), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1), NavIC (L5)",Space Gray,1100.0,6000.0,16.0
-Asus ROG Phone 6D,,,2022-10-11,2022.0,6.78,256.0,50.0,"50 MP, f/1.9, 24mm (wide), 1/1.56"", 1.0µm, PDAF__13 MP, f/2.2, 13mm (ultrawide)__5 MP, (macro)","Yes, with stereo speakers (2 amplifiers)","GPS (L1+L5), GLONASS (L1), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1), NavIC (L5)",Space Gray,690.0,6000.0,12.0
-Asus ROG Phone 6 Diablo Immortal Edition,,,2022-11-18,2022.0,6.78,512.0,50.0,"50 MP, f/1.9, 24mm (wide), 1/1.56"", 1.0µm, PDAF__13 MP, f/2.2, 13mm (ultrawide)__5 MP, (macro)","Yes, with stereo speakers (2 amplifiers)","GPS (L1+L5), GLONASS (L1), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC (L5)",Hellfire Red,860.0,6000.0,16.0
-Asus ROG Phone 6 Batman Edition,,,2022-10-10,2022.0,6.78,256.0,50.0,"50 MP, f/1.9, 24mm (wide), 1/1.56"", 1.0µm, PDAF__13 MP, f/2.2, 13mm (ultrawide)__5 MP, (macro)","Yes, with stereo speakers (2 amplifiers)","GPS (L1+L5), GLONASS (L1), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC (L5)",Night Black,1500.0,6000.0,12.0
-Asus Zenfone 9,,,2022-09-15,2022.0,5.9,128.0,50.0,"50 MP, f/1.9, 24mm (wide), 1/1.56"", 1.0µm, multi-directional PDAF, gimbal OIS__12 MP, f/2.2, 14mm, 113° (ultrawide), 1/2.55"", 1.4µm, dual pixel PDAF","Yes, with stereo speakers","GPS (L1+L5), GLONASS (L1), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC (L5)","Starry Blue, Moonlight White, Sunset Red, Midnight Black",445.74,4300.0,6.0
-Asus ROG Phone 6 Pro,,,2022-07-13,2022.0,6.78,512.0,50.0,"50 MP, f/1.9, (wide), 1/1.56"", 1.0µm, PDAF__13 MP, f/2.2, (ultrawide)__5 MP, (macro)","Yes, with stereo speakers (2 amplifiers)","GPS (L1+L5), GLONASS (L1), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC (L5)",Storm White,800.0,6000.0,18.0
-Asus ROG Phone 6,,,2022-07-13,2022.0,6.78,128.0,50.0,"50 MP, f/1.9, (wide), 1/1.56"", 1.0µm, PDAF__13 MP, f/2.2, (ultrawide)__5 MP, (macro)","Yes, with stereo speakers (2 amplifiers)","GPS (L1+L5), GLONASS (L1), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC (L5)","Phantom Black, Storm White",428.35,6000.0,8.0
-Asus ROG Phone 5s Pro,,,2021-08-24,2021.0,6.78,512.0,64.0,"64 MP, f/1.8, 26mm (wide), 1/1.73"", 0.8µm, PDAF__13 MP, f/2.4, 11mm, 125˚ (ultrawide)__5 MP, f/2.0, (macro)","Yes, with stereo speakers (2 amplifiers)","GPS (L1+L5), GLONASS (L1), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC (L5)",Matte White,2000.0,6000.0,18.0
-Asus ROG Phone 5s,,,2021-08-26,2021.0,6.78,128.0,64.0,"64 MP, f/1.8, 26mm (wide), 1/1.73"", 0.8µm, PDAF__13 MP, f/2.4, 11mm, 125˚ (ultrawide)__5 MP, f/2.0, (macro)","Yes, with stereo speakers (2 amplifiers)","GPS (L1+L5), GLONASS (L1), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC (L5)","Phantom Black, Storm White",1030.0,6000.0,8.0
-Asus Smartphone for Snapdragon Insiders,,,2021-08-31,2021.0,6.78,512.0,64.0,"64 MP, f/1.8, 26mm (wide), 1/1.73"", 0.8µm, PDAF, OIS__8 MP, f/2.4, 80mm (telephoto), PDAF, 3x optical zoom, OIS__12 MP, f/2.2, 112˚, 14mm (ultrawide), 1/2.55"", 1.4µm, dual pixel PDAF","Yes, with stereo speakers","GPS (L1+L5), GLONASS (L1), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC (L5)",Midnight blue,1270.0,4000.0,16.0
-Asus Zenfone 8 Flip,,,2021-05-13,2021.0,6.67,128.0,64.0,"64 MP, f/1.8, 26mm (wide), 1/1.73"", 0.8µm, PDAF__8 MP, f/2.4, 80mm (telephoto), PDAF, 3x optical zoom__12 MP, f/2.2, 112˚, 14mm (ultrawide), 1/2.55"", 1.4µm, dual pixel PDAF","Yes, with stereo speakers","GPS (L1+L5), GLONASS (L1), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC (L5)","Galactic Black, Glacier Silver",380.0,5000.0,8.0
-Asus Zenfone 8,,,2021-05-13,2021.0,5.9,128.0,64.0,"64 MP, f/1.8, 26mm (wide), 1/1.73"", 0.8µm, PDAF, OIS__12 MP, f/2.2, 112˚, 14mm (ultrawide), 1/2.55"", 1.4µm, dual pixel PDAF","Yes, with stereo speakers","GPS (L1+L5), GLONASS (L1), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC (L5)","Obsidian Black, Horizon Silver",389.95,4000.0,6.0
-Asus ROG Phone 5 Ultimate,,,2021-06-07,2021.0,6.78,512.0,64.0,"64 MP, f/1.8, 26mm (wide), 1/1.73"", 0.8µm, PDAF__13 MP, f/2.4, 11mm, 125˚ (ultrawide)__5 MP, f/2.0, (macro)","Yes, with DTS:X stereo speakers (2 dedicated amplifiers)","GPS (L1+L5), GLONASS (L1), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC (L5)",Matte White,1300.0,6000.0,18.0
-Asus ROG Phone 5 Pro,,,2021-07-02,2021.0,6.78,512.0,64.0,"64 MP, f/1.8, 26mm (wide), 1/1.73"", 0.8µm, PDAF__13 MP, f/2.4, 11mm, 125˚ (ultrawide)__5 MP, f/2.0, (macro)","Yes, with DTS:X stereo speakers (2 dedicated amplifiers)","GPS (L1+L5), GLONASS (L1), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC (L5)",Glossy Black,680.0,6000.0,16.0
-Asus ROG Phone 5,,,2021-04-26,2021.0,6.78,128.0,64.0,"64 MP, f/1.8, 26mm (wide), 1/1.73"", 0.8µm, PDAF__13 MP, f/2.4, 11mm, 125˚ (ultrawide)__5 MP, f/2.0, (macro)","Yes, with DTS:X stereo speakers (2 dedicated amplifiers)","GPS (L1+L5), GLONASS (L1), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC (L5)","Phantom Black, Storm White",382.24,6000.0,8.0
-Asus Zenfone 7 Pro,,,2020-09-01,2020.0,6.67,256.0,64.0,"64 MP, f/1.8, 26mm (wide), 1/1.72"", 0.8µm, PDAF, OIS__8 MP, f/2.4, 80mm (telephoto), PDAF, OIS, 3x optical zoom__12 MP, f/2.2, 113˚, 17mm (ultrawide), 1/2.55"", 1.4µm, dual pixel PDAF","Yes, with stereo speakers","GPS (L1+L5), GLONASS (L1), BDS (B1+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC (L5)","Aurora Black, Pastel White",670.0,5000.0,8.0
-Asus ROG Phone 3,,,2020-07-23,2020.0,6.59,128.0,64.0,"64 MP, f/1.8, 26mm (wide), 1/1.73"", 0.8µm, PDAF__13 MP, f/2.4, 11mm, 125˚ (ultrawide)__5 MP, f/2.0, (macro)","Yes, with DTS:X stereo speakers (2 dedicated amplifiers)","GPS (L1+L5), GLONASS, BDS, GALILEO, QZSS",Black Glare,650.0,6000.0,8.0
-Asus ROG Phone 3 Strix,,,2020-07-23,2020.0,6.59,128.0,64.0,"64 MP, f/1.8, 26mm (wide), 1/1.73"", 0.8µm, PDAF__13 MP, f/2.4, 11mm, 125˚ (ultrawide)__5 MP, f/2.0, (macro)","Yes, with DTS:X stereo speakers (2 dedicated amplifiers)","GPS (L1+L5), GLONASS, BDS, GALILEO, QZSS",Black Glare,1400.0,6000.0,8.0
-Asus ROG Phone II ZS660KL,,,2019-09-01,2019.0,6.59,128.0,48.0,"48 MP, f/1.8, 26mm (wide), 1/2.0"", 0.8µm, PDAF__13 MP, f/2.4, 11mm (ultrawide)","Yes, with DTS:X stereo speakers (2 dedicated amplifiers)","GPS (L1+L5), GLONASS, BDS, GALILEO, QZSS","Matte Black, Glossy Black",1070.0,6000.0,8.0
-Asus Zenfone 6 ZS630KL,,,2019-05-01,2019.0,6.4,64.0,48.0,"48 MP, f/1.8, 26mm (wide), 1/2.0"", 0.8µm, PDAF__13 MP, f/2.4, 11mm (ultrawide)","Yes, with stereo speakers","GPS (L1+L5), GLONASS (G1), BDS (B1), GALILEO (E1+E5a), QZSS (L1+L5)","Midnight Black, Twilight Silver",500.0,5000.0,6.0
-Asus ZenFone Live (L2),,,2019-05-01,2019.0,5.5,16.0,8.0,"8 MP or 13 MP, f/2.0, PDAF",Yes,"GPS, GLONASS, BDS","Rocket Red, Cosmic Blue",,3000.0,2.0
-Asus Zenfone Max Plus (M2) ZB634KL,,,2019-03-01,2019.0,6.26,32.0,12.0,"12 MP, f/1.8, 1/2.9"", 1.25μm, PDAF__5 MP, f/2.4, (depth)",Yes,"GPS, GLONASS","Red, Silver, Blue, Black",200.0,4000.0,3.0
-Asus Zenfone Max Shot ZB634KL,,,2019-03-01,2019.0,6.26,32.0,12.0,"12 MP, f/1.8, 1/2.9"", 1.25μm, PDAF__8 MP, 13mm (ultrawide), 1/4.0"", 1.12µm__5 MP, f/2.4, (depth)",Yes,"GPS, GLONASS","Red, Silver, Blue, Black",310.0,4000.0,3.0
-Asus Zenfone Max Pro (M2) ZB631KL,,,2018-12-01,2018.0,6.26,32.0,12.0,"12 MP, f/1.8, 1/2.9"", 1.25μm, PDAF__5 MP, f/2.4, (depth)",Yes,"GPS, GLONASS, BDS, GALILEO, QZSS","Blue, Titanium",370.0,5000.0,3.0
-Asus Zenfone Max (M2) ZB633KL,,,2018-12-01,2018.0,6.26,32.0,13.0,"13 MP, f/1.8, 1/3.1"", 1.12µm, PDAF__2 MP, (depth)",Yes,"GPS, GLONASS, BDS","Black, Blue",,4000.0,3.0
-Asus Zenfone Max (M1) ZB556KL,,,2018-10-01,2018.0,5.45,32.0,13.0,"13 MP, f/2.0, (wide), 1/3.1"", 1.12µm, PDAF",Yes,"GPS, GLONASS, BDS","Deepsea Black, Sunlight Gold",120.0,4000.0,3.0
-Asus ZenFone Lite (L1) ZA551KL,,,2018-10-01,2018.0,5.45,16.0,13.0,"13 MP, f/2.0, 1/3.1"", 1.12µm, PDAF",Yes,"GPS, GLONASS, BDS","Black, Gold",80.0,3000.0,2.0
-Asus ROG Phone ZS600KL,,,2018-10-01,2018.0,6.0,128.0,12.0,"12 MP, f/1.8, 24mm (wide), 1/2.55"", 1.4µm, dual pixel PDAF, 4-axis OIS__8 MP, 12mm (ultrawide), no AF","Yes, with stereo speakers","GPS, GLONASS, BDS, GALILEO, QZSS",Black,1110.0,4000.0,8.0
-Asus ZenFone Live (L1) ZA550KL,,,2018-05-01,2018.0,5.5,16.0,13.0,"13 MP, f/2.0, PDAF",Yes,"GPS, GLONASS, BDS","Space Blue, Rose Pink, Shimmer Gold, Midnight Black",100.0,3000.0,1.0
-Asus Zenfone Max Pro (M1) ZB601KL/ZB602K,,,2018-05-01,2018.0,5.99,32.0,13.0,"13 MP, f/2.2, 25mm (wide), 1.12µm, PDAF__5 MP, f/2.4, (depth)__or__16 MP, f/2.0, PDAF__5 MP, f/2.4, (depth) (6 GB RAM model only)",Yes,"GPS, GLONASS, BDS","Meteor Silver, Deepsea Black",160.0,5000.0,3.0
-Asus Zenfone 5z ZS620KL,,,2018-06-01,2018.0,6.2,64.0,12.0,"12 MP, f/1.8, 24mm (wide), 1/2.55"", 1.4µm, PDAF, 4-axis OIS__8 MP, f/2.0, 12mm (ultrawide), 1/4.0"", 1.12µm, no AF","Yes, with dual speakers","GPS, GLONASS, BDS","Midnight Blue, Meteor Silver",500.0,3300.0,4.0
-Asus Zenfone 5 ZE620KL,,,2018-05-01,2018.0,6.2,64.0,12.0,"12 MP, f/1.8, 24mm (wide), 1/2.55"", 1.4µm, PDAF, 4-axis OIS__8 MP, f/2.0, 12mm (ultrawide), 1/4.0"", 1.12µm, no AF","Yes, with dual speakers","GPS, GLONASS, BDS, GALILEO","Midnight Blue, Meteor Silver",320.0,3300.0,4.0
-Asus Zenfone 5 Lite ZC600KL,,,2018-05-01,2018.0,6.0,32.0,16.0,"16 MP, f/2.2, 26mm (wide), PDAF__Unknown MP, 13mm, no AF",Yes,"GPS, GLONASS, BDS","Midnight Black, Moonlight White, Rouge Red",200.0,3300.0,3.0
-Asus Zenfone Max (M1) ZB555KL,,,2018-05-01,2018.0,5.5,16.0,13.0,"13 MP, f/2.0, PDAF__8 MP, 17mm (ultrawide)",Yes,"GPS, GLONASS, BDS","Deepsea Black, Sunlight Gold, Ruby Red",150.0,4000.0,2.0
-Asus Zenfone Max Plus (M1) ZB570TL,,,2017-12-01,2017.0,5.7,16.0,16.0,"16 MP, f/2.0, 35mm (standard), PDAF__8 MP, 17mm (ultrawide), no AF",Yes,"GPS, GLONASS","Sunlight Gold, Azure Silver, Deepsea Black",250.0,4130.0,2.0
-Asus Zenfone V V520KL,,,2017-09-01,2017.0,5.2,32.0,23.0,"23 MP, f/2.0, 1/2.6"", 1.0µm, PDAF, 4-axis OIS",Yes,"GPS, GLONASS, BDS",Sapphire Black,100.0,3000.0,4.0
-Asus Zenfone 4 Pro ZS551KL,,,2017-10-01,2017.0,5.5,64.0,12.0,"12 MP, f/1.7, 25mm (wide), 1/2.55"", 1.4µm, dual pixel PDAF, 4-axis OIS__16 MP, 50mm (telephoto), 1/3.1"", 1.0µm, AF, 2x optical zoom","Yes, dual speakers","GPS, GLONASS, BDS, GALILEO","Moonlight white, Pure Black",350.0,3600.0,6.0
-Asus Zenfone 4 ZE554KL,,,2017-10-01,2017.0,5.5,64.0,12.0,"12 MP, f/1.8, 25mm (wide), 1/2.55"", 1.4µm, dual pixel PDAF, OIS__8 MP, 12mm (ultrawide), 1/4.0"", 1.12µm, no AF","Yes, dual speakers","GPS, GLONASS, BDS, GALILEO","Moonlight white, Mint Green, Midnight Black",350.0,3300.0,4.0
-Asus Zenfone 4 Selfie Lite ZB553KL,,,2017-11-01,2017.0,5.5,16.0,13.0,"13 MP, PDAF",Yes,"GPS, GLONASS, BDS, GALILEO","Deepsea Black, Mint Green, Rose Pink, Sunlight Gold",180.0,3000.0,2.0
-Asus Zenfone 4 Selfie Pro ZD552KL,,,2017-10-01,2017.0,5.5,64.0,16.0,"16 MP, 26mm (wide), dual pixel PDAF",Yes,"GPS, GLONASS, BDS, GALILEO","Rouge Red, Sunlight Gold, Deepsea Black",250.0,3000.0,3.0
-Asus Zenfone 4 Selfie ZD553KL,,,2017-10-01,2017.0,5.5,64.0,16.0,"16 MP, 26mm (wide), PDAF",Yes,"GPS, GLONASS, BDS, GALILEO","Deepsea Black, Mint Green, Rose Pink, Sunlight Gold",250.0,3000.0,4.0
-Asus Zenfone 4 Max ZC520KL,,,2017-10-01,2017.0,5.2,16.0,13.0,"13 MP, AF__5 MP, f/2.4, (depth)",Yes,"GPS, GLONASS","Black, Gold, Silver",180.0,4100.0,2.0
-Asus Zenfone 4 Max Pro ZC554KL,,,2017-09-01,2017.0,5.5,32.0,16.0,"16 MP, f/2.0, 26mm (wide), PDAF",Yes,"GPS, GLONASS, BDS, GALILEO","Deepsea Black, Sunlight Gold, Rose Pink",250.0,5000.0,2.0
-Asus Zenfone 4 Max Plus ZC554KL,,,2017-09-01,2017.0,5.5,32.0,13.0,"13 MP, AF__5 MP, f/2.4, (depth)",Yes,"GPS, GLONASS","Deepsea Black, Sunlight Gold, Rose Pink",220.0,5000.0,3.0
-Asus Zenfone 4 Max ZC554KL,,,2017-09-01,2017.0,5.5,32.0,13.0,"13 MP, f/2.0, 25mm (wide), AF__13 MP, f/2.0, 12mm, no AF",Yes,"GPS, GLONASS, BDS","Titanium Gray, Rose Pink, Sand Gold, Deepsea Black",270.0,5000.0,3.0
-Asus Zenfone Go ZB552KL,,,2017-05-01,2017.0,5.5,16.0,13.0,"13 MP, f/2.0, AF",Yes,"GPS, GLONASS, BDS","Charcoal Black, Pearl White, Glamor Red, Sheer Gold, Glacier Gray, Silver Blue",120.0,3000.0,2.0
-Asus Zenfone Live ZB501KL,,,2017-03-01,2017.0,5.0,16.0,13.0,"13 MP, f/2.0, AF",Yes,"GPS, GLONASS","Shimmer Gold/Rose, Pink/Navy Black",150.0,2650.0,2.0
-Asus Zenfone 3s Max ZC521TL,,,2017-02-01,2017.0,5.2,32.0,13.0,"13 MP, f/2.0, AF",Yes,"GPS, GLONASS, BDS","Gold, Black",180.0,5000.0,3.0
-Asus Zenfone AR ZS571KL,,,2017-06-01,2017.0,5.7,64.0,23.0,"23 MP, f/2.0, 1/2.6"", 1.0µm, PDAF, 4-axis OIS, depth & motion tracking sensors",Yes,"GPS, GLONASS, BDS",Black,370.0,3300.0,6.0
-Asus Zenfone 3 Zoom ZE553KL,,,2017-02-01,2017.0,5.5,32.0,12.0,"12 MP, f/1.7, 25mm (wide), 1/2.55"", 1.4µm, dual pixel PDAF, 4-axis OIS__12 MP, f/2.8, 59mm (telephoto), AF, 2.3x optical zoom",Yes,"GPS, GLONASS, BDS","Navy Black, Glacier Silver, Rose Gold",320.0,5000.0,3.0
-Asus Zenfone Go ZB690KG,,,2016-12-01,2016.0,6.9,8.0,5.0,"5 MP or 8 MP, f/2.0, AF",Yes,"GPS, GLONASS, BDS","Glacier Grey, Pearl White",120.0,3480.0,1.0
-Asus Zenfone Go ZB500KL,,,2016-10-01,2016.0,5.0,16.0,13.0,"13 MP, f/2.0, AF",Yes,"GPS, GLONASS","Glacier Gray, Sheer Gold, Silver Blue, Glamour Red, Charcoal Black, Pearl White",130.0,2600.0,2.0
-Asus Zenfone 3 Max ZC553KL,,,2016-11-01,2016.0,5.5,32.0,16.0,"16 MP, f/2.0, 1/3.0"", PDAF",Yes,"GPS, GLONASS, BDS","Titanium Gray, Glacier Silver, Rose Pink, Sand Gold",190.0,4100.0,2.0
-Asus Zenfone 3 Deluxe 5.5 ZS550KL,,,2016-10-01,2016.0,5.5,64.0,16.0,"16 MP, f/2.0, PDAF, OIS",Yes,"GPS, GLONASS, BDS",Shimmer Gold,280.0,3000.0,4.0
-Asus Zenfone 3 Max ZC520TL,,,2016-08-01,2016.0,5.2,16.0,13.0,"13 MP, f/2.2, AF",Yes,"GPS, GLONASS, BDS","Titanium Grey, Glacier Silver, Sand Gold",230.0,4130.0,2.0
-Asus Zenfone 3 Laser ZC551KL,,,2016-08-01,2016.0,5.5,16.0,13.0,"13 MP, f/2.0, 1/3.1"", 1.12µm",Yes,"GPS, GLONASS, BDS","Sand Gold, Glacier Silver",160.0,3000.0,2.0
-Asus Zenfone 3 ZE520KL,,,2016-08-01,2016.0,5.2,32.0,16.0,"16 MP, f/2.0, PDAF, 4-axis OIS",Yes,"GPS, GLONASS, BDS","Sapphire Black, Moonlight White, Shimmer Gold",280.0,2600.0,3.0
-Asus Zenfone Pegasus 3,,,2016-06-01,2016.0,5.2,16.0,13.0,"13 MP, f/2.2, AF",Yes,"GPS, GLONASS","Gold, silver, gray, rose gold",210.0,4100.0,2.0
-Asus Zenfone 3 Ultra ZU680KL,,,2016-08-01,2016.0,6.8,32.0,23.0,"23 MP, f/2.0, 1/2.6"", 1.0µm, PDAF, 4-axis OIS","Yes, dual speakers","GPS, GLONASS, BDS","Glacier Silver, Titanium Gray, Metallic Pink",300.0,4600.0,3.0
-Asus Zenfone 3 Deluxe ZS570KL,,,2016-08-01,2016.0,5.7,64.0,23.0,"23 MP, f/2.0, 1/2.6"", 1.0µm, PDAF, 4-axis OIS",Yes,"GPS, GLONASS, BDS","Glacier Silver, Titanium Gray, Shimmer Gold",230.0,3000.0,4.0
-Asus Zenfone 3 ZE552KL,,,2016-08-01,2016.0,5.5,32.0,16.0,"16 MP, f/2.0, PDAF, 3-axis OIS",Yes,"GPS, GLONASS","Sapphire Black, Moonlight White, Shimmer Gold",330.0,3000.0,3.0
-Asus Zenfone Max ZC550KL (2016),,,2016-05-01,2016.0,5.5,32.0,13.0,"13 MP, f/2.0",Yes,"GPS, GLONASS, BDS","Black, White, Orange, Blue",170.0,5000.0,2.0
-Asus Zenfone Go ZB452KG,,,2016-04-01,2016.0,4.5,8.0,5.0,"5 MP or 8 MP, f/2.0, AF",Yes,"GPS, GLONASS, BDS","Lemon Yellow, Charcoal Black, Pearl White, Glacier Gray, Sheer Gold, Glamour Red, Silver Blue",90.0,2070.0,1.0
-Asus Zenfone Go ZB551KL,,,2016-05-01,2016.0,5.5,16.0,8.0,"8 MP or 13 MP, f/2.0, AF",Yes,"GPS, GLONASS, BDS","Charcoal Black, Pearl White, Lake Blue, Glacier Gray, Sheer Gold, Glamour Red, Floral Pink, Silver Blue",150.0,3010.0,2.0
-Asus Zenfone Go T500,,,2016-04-01,2016.0,5.0,16.0,8.0,"8 MP, AF",Yes,"GPS, GLONASS","Black, White",110.0,2500.0,2.0
-Asus Zenfone Go ZC451TG,,,2015-12-01,2015.0,4.5,8.0,5.0,"5 MP, f/2.0, AF",Yes,GPS,"Charcoal Black, Pearl White, Rouge Pink, Flash Blue",70.0,1600.0,1.0
-Asus Live G500TG,,,2016-02-01,2016.0,5.0,16.0,8.0,"8 MP, f/2.0, AF",Yes,GPS,"Rosa, Azul, Yellow",160.0,2070.0,2.0
-Asus Zenfone 2 Laser ZE551KL,,,2015-11-01,2015.0,5.5,16.0,13.0,"13 MP, f/2.0",Yes,"GPS, GLONASS, BDS",Silver,180.0,3000.0,3.0
-Asus Zenfone Zoom ZX551ML,,,2015-12-01,2015.0,5.5,32.0,13.0,"13 MP, f/2.7-4.8, 28-84mm (periscope telephoto zoom), OIS, 3x optical zoom",Yes,"GPS, GLONASS, BDS","Pure Black, Ceramic White",250.0,3000.0,4.0
-Asus Zenfone Go ZC500TG,,,2015-08-01,2015.0,5.0,8.0,8.0,"8 MP, f/2.0, AF",Yes,GPS,"Black, White, Red",130.0,2070.0,2.0
-Asus Zenfone Max ZC550KL,,,2016-01-01,2016.0,5.5,8.0,13.0,"13 MP, f/2.0",Yes,"GPS, GLONASS, BDS","Black, White",170.0,5000.0,2.0
-Asus Zenfone 2 Deluxe ZE551ML,,,2015-09-01,2015.0,5.5,64.0,13.0,"13 MP, f/2.0, AF",Yes,"GPS, GLONASS, BDS","White, Pink, PurpleSilver Polygon/Carbon Night (Black) - Special Edition",350.0,3000.0,4.0
-Asus Zenfone 2 Laser ZE601KL,,,2015-12-01,2015.0,6.0,16.0,13.0,"13 MP, f/2.0","Yes, dual speakers","GPS, GLONASS, BDS","Glacier Gray, Sheer Gold, Glamour Red",270.0,3000.0,2.0
-Asus Zenfone 2 Laser ZE600KL,,,2016-01-01,2016.0,6.0,16.0,13.0,"13 MP, f/2.0","Yes, dual speakers","GPS, GLONASS, BDS","Glacier Gray, Sheer Gold, Glamour Red",310.0,3000.0,2.0
-Asus Zenfone 2 Laser ZE550KL,,,2015-09-01,2015.0,5.5,16.0,13.0,"13 MP, f/2.0",Yes,"GPS, GLONASS","Black, White, Red, Silver, Gold",220.0,3000.0,2.0
-Asus Zenfone 2 Laser ZE500KG,,,2015-10-01,2015.0,5.0,8.0,8.0,"8 MP, f/2.0",Yes,"GPS, GLONASS","Black, Ceramic White, Silver, Sheer Gold, Glamour Red",200.0,2040.0,2.0
-Asus Zenfone 2 Laser ZE500KL,,,2015-08-01,2015.0,5.0,8.0,13.0,"13 MP, f/2.0",Yes,"GPS, GLONASS",Black/Ceramic White/Silver/Purple/Aqua Blue/Sheer Gold/Glamour Red,210.0,2400.0,2.0
-Asus Zenfone 2E,,,2015-07-01,2015.0,5.0,8.0,8.0,"8 MP, AF",Yes,GPS,"Charcoal Black, Pearl White",110.0,2500.0,1.0
-Asus Pegasus 2 Plus,,,2015-12-01,2015.0,5.5,32.0,13.0,"13 MP, f/2.0, AF",Yes,GPS,"Rose Gold, White",300.0,3030.0,3.0
-Asus Zenfone Selfie ZD551KL,,,2015-08-01,2015.0,5.5,16.0,13.0,"13 MP, f/2.0, 28mm (wide), 1/3.0""",Yes,"GPS, GLONASS, BDS","Pure White, Chic Pink, Aqua Blue",280.0,3000.0,2.0
-Asus Zenfone 2 ZE500CL,,,2015-03-01,2015.0,5.0,16.0,8.0,"8 MP, f/2.0, AF",Yes,"GPS, GLONASS","Charcoal Black, Pearl White, Cherry Red",180.0,2500.0,2.0
-Asus Zenfone 2 ZE550ML,,,2015-03-01,2015.0,5.5,16.0,13.0,"13 MP, f/2.0, AF",Yes,"GPS, GLONASS","Osmium Black, Glamor Red, Ceramic White",250.0,3000.0,2.0
-Asus Zenfone 2 ZE551ML,,,2015-03-01,2015.0,5.5,16.0,13.0,"13 MP, f/2.0, AF",Yes,"GPS, GLONASS","Osmium Black, Sheer Gold, Glacier Gray, Glamor Red, Ceramic White",300.0,3000.0,2.0
-Asus Zenfone C ZC451CG,,,2015-02-01,2015.0,4.5,8.0,5.0,"5 MP, f/2.0, AF",Yes,"GPS, GLONASS","Charcoal Black, Pearl White, Cherry Red",90.0,2100.0,1.0
-Asus Zenfone Zoom ZX550,,,2015-12-01,2015.0,5.5,16.0,13.0,"13 MP, f/2.7-4.8, 28-84mm (periscope telephoto zoom), OIS, 3x optical zoom",Yes,"GPS, GLONASS","Meteorite black, Glacier white",400.0,3000.0,2.0
-Asus Zenfone 5 Lite A502CG (2014),,,2014-11-01,2014.0,5.0,1.0,8.0,"8 MP, AF",Yes,"GPS, GLONASS","Charcoal Black, Pearl White, Cherry Red",100.0,2500.0,1.0
-Asus Zenfone 5 A500KL (2014),,,2014-07-01,2014.0,5.0,8.0,8.0,"8 MP, f/2.0, AF",Yes,"GPS, GLONASS","Charcoal Black, Pearl White, Cherry Red, Champagne Gold, Twilight Purple",210.0,2110.0,1.0
-Asus Zenfone 4 A450CG (2014),,,2014-07-01,2014.0,4.5,8.0,8.0,"8 MP, f/2.0, AF",Yes,"GPS, GLONASS","Charcoal Black, Pearl White, Cherry Red, Sky Blue, Solar Yellow",100.0,1750.0,1.0
-Asus Zenfone 6 A601CG (2014),,,2014-05-01,2014.0,6.0,16.0,13.0,"13 MP, AF",Yes,GPS,"Charcoal Black, Pearl White, Cherry Red, Champagne Gold",200.0,3230.0,2.0
-Asus Zenfone 6 A600CG (2014),,,2014-05-01,2014.0,6.0,16.0,13.0,"13 MP, f/2.0, AF",Yes,GPS,"Charcoal Black, Pearl White, Cherry Red, Champagne Gold",250.0,3300.0,2.0
-Asus Zenfone 5 A501CG (2015),,,2015-01-01,2015.0,5.0,8.0,8.0,"8 MP, f/2.0, AF",Yes,"GPS, GLONASS","Charcoal Black, Pearl White, Cherry Red",120.0,2110.0,2.0
-Asus Zenfone 5 A500CG (2014),,,2014-04-01,2014.0,5.0,8.0,8.0,"8 MP, f/2.0, AF",Yes,"GPS, GLONASS","Charcoal Black, Pearl White, Cherry Red, Champagne Gold, Twilight Purple",130.0,2110.0,2.0
-Asus Zenfone 4 (2014),,,2014-05-01,2014.0,4.0,4.0,5.0,"5 MP, AF",Yes,"GPS, GLONASS","Charcoal Black, Pearl White, Cherry Red, Sky Blue, Solar Yellow",130.0,1200.0,1.0
-Asus Transformer Book Trio,,,2013-09-01,2013.0,11.6,16.0,5.0,"5 MP, AF",Yes,No,Black,,,2.0
-Asus Google Nexus 7 (2013),,,2013-07-01,2013.0,7.0,16.0,5.0,"5 MP, f/2.4, AF","Yes, with stereo speakers",GPS,Black,230.0,3950.0,2.0
-Asus Google Nexus 7 Cellular,,,2012-11-01,2012.0,7.0,16.0,2.0,1.2 MP,"Yes, with stereo speakers",GPS,Black,230.0,4325.0,1.0
-Asus VivoTab RT TF600T,,,2012-11-01,2012.0,10.1,32.0,8.0,"8 MP, AF","Yes, with quad speakers",No,Gray,420.0,,2.0
-Asus Google Nexus 7,,,2012-07-01,2012.0,7.0,8.0,2.0,1.2 MP,"Yes, with stereo speakers",GPS,Black,150.0,4325.0,1.0
-Asus Memo,,,2012-09-01,2012.0,7.0,16.0,5.0,"5 MP, AF",Yes,"GPS, A-GPS",Black,170.0,4400.0,1.0
-Asus Transformer Prime TF700T,,,2012-07-01,2012.0,10.1,32.0,8.0,"8 MP, AF",Yes,GPS,"Silver, Purple",400.0,,1.0
-Asus Transformer Prime TF201,,,2011-12-01,2011.0,10.1,32.0,8.0,"8 MP, AF","Yes, with stereo speakers","GPS, A-GPS","Amethyst Gray, Champagne Gold",350.0,,1.0
-Asus Transformer TF101,,,2011-04-01,2011.0,10.1,16.0,5.0,"5 MP, AF","Yes, with stereo speakers","GPS, A-GPS",Black,280.0,,1.0
-Asus P835,,,2009-05-01,2009.0,3.5,4.0,5.0,"5 MP, AF",Yes,"GPS, A-GPS",Black,400.0,1100.0,0.2801556420233463
-Asus E600,,,,,4.0,,5.0,5 MP,Yes,"GPS, A-GPS",Black,,1300.0,
-Asus P565,,,2009-05-01,2009.0,2.8,0.1245136186770428,15.0,"3.15 MP, AF",Yes,"GPS, SiRF Star III chipset",Black,440.0,1300.0,0.1245136186770428
-Asus P552w,,,,,2.8,0.1245136186770428,2.0,2 MP,Yes,"GPS, SiRF Star III chipset","Black, White",370.0,1100.0,0.1245136186770428
-Asus P320,,,2008-04-01,2008.0,2.6,0.0622568093385214,2.0,"2 MP, AF",Yes,GPS,,410.0,1100.0,0.0622568093385214
-Asus M930,,,2008-09-01,2008.0,2.6,0.2490272373540856,2.0,2 MP,Yes,No,Black,380.0,1100.0,0.0622568093385214
-Asus P750,,,2008-04-01,2008.0,2.6,0.0622568093385214,15.0,"3.15 MP, AF",No,"GPS, SiRF Star III chipset",Black,330.0,1300.0,0.0622568093385214
-Asus P527,,,2008-10-01,2008.0,2.6,0.1245136186770428,2.0,"2 MP, AF",No,"GPS, SiRF Star III chipset",Silver,300.0,,0.0622568093385214
-Asus Z801,,,,,2.0,0.0622568093385214,2.0,2 MP,No,No,Silver,260.0,750.0,
-Asus J502,,,,,2.4,0.023346303501945526,3.0,"3 MP, AF",No,No,"Black, Red",300.0,,
-Asus V88i,,,,,,0.03404669260700389,2.0,"2 MP, AF",No,No,Black,290.0,,
-Asus M530w,,,2008-04-01,2008.0,2.4,0.2490272373540856,2.0,2 MP,No,No,"Black, White",330.0,1200.0,0.0622568093385214
-Asus P526,,,,,2.6,0.1245136186770428,2.0,2 MP,No,"GPS, SiRF Star III chipset",Silver,300.0,1300.0,
-Asus J501,,,,,2.2,0.0048638132295719845,2.0,"2 MP, AF",No,No,"Black, White",300.0,750.0,
-Asus P735,,,,,2.8,0.2490272373540856,2.0,"2 MP, AF",No,No,Silver,370.0,1300.0,0.0622568093385214
-Asus Z810,,,,,2.0,0.0622568093385214,2.0,"2 MP, AF",No,No,Silver,,720.0,
-Asus P535,,,,,2.8,0.2490272373540856,2.0,"2 MP, AF",No,"GPS, SiRF Star III chipset","Silver, White",,1300.0,0.0622568093385214
-Asus P525,,,,,2.8,0.1245136186770428,2.0,"2 MP, AF",No,No,Silver,,1300.0,
-Asus P505,,,,,2.8,0.0622568093385214,3.0,1.3 MP,No,No,Silver,,1000.0,0.0622568093385214
-Asus M303,,,,,1.8,,3.0,1.3 MP,No,No,"Silver, Pink, Black",,700.0,
-Asus M307,,,,,1.8,0.033073929961089495,2.0,"2 MP, AF",No,No,"White, Silver",,700.0,
-Asus M310,,,,,2.2,0.03404669260700389,2.0,"2 MP, AF",No,No,"White, Silver",,920.0,
-Asus V80,,,,,2.0,0.053501945525291826,2.0,"2 MP, AF",No,No,"Black, White, Reddish Gold",,750.0,
-Asus V75,,,,,1.8,0.0311284046692607,3.0,1.3 MP,No,No,"White, Blue",,720.0,
-Asus V66,,,,,1.8,0.0311284046692607,,VGA,No,No,"Silver, Blue, Orange",,720.0,
-Asus V55,,,,,1.5,,,VGA,No,No,"Black, Blue",,700.0,
-Asus Zenfone Pegasus 3s,,,,,5.2,32.0,13.0,"13 MP, f/2.0, 1/3.1"", 1.12µm, PDAF",Yes,"GPS, GLONASS, BDS","Gold, silver, gray, rose gold",330.0,5000.0,3.0
-Garmin-Asus A10,,,2010-07-01,2010.0,3.2,4.0,5.0,"5 MP, AF",Yes,"GPS, A-GPS, Garmin navigation",Black,310.0,1500.0,0.4980544747081712
-Garmin-Asus nuvifone A50,,,2010-09-01,2010.0,3.5,4.0,15.0,"3.15 MP, AF",Yes,"GPS, A-GPS, Garmin navigation",Black,,1150.0,0.2490272373540856
-Garmin-Asus nuvifone G60,,,2009-10-01,2009.0,3.55,4.0,15.0,"3.15 MP, AF",Yes,GPS,Black,190.0,1100.0,0.1245136186770428
-Garmin-Asus nuvifone M20,,,2009-09-01,2009.0,2.8,8.0,15.0,"3.15 MP, AF",Yes,GPS,"Green, Red, Blue, Black",300.0,920.0,
-Gionee G13 Pro,,,2022-01-30,2022.0,6.26,32.0,13.0,"13 MP, (wide), PDAF__2 MP",Yes,GPS,"Black, Blue, Silver, Purple",80.0,3500.0,4.0
-Gionee P15,,,2021-07-30,2021.0,6.52,32.0,13.0,"13 MP, (wide), PDAF__0.08 MP (auxiliary lens)__0.08 MP (auxiliary lens)",Yes,GPS,"Black, Blue, Light Blue",100.0,5000.0,2.0
-Gionee M15,,,2021-05-28,2021.0,6.67,128.0,48.0,"48 MP, (wide), PDAF__5 MP, (ultrawide)__2 MP, (macro)__2 MP, (depth)",Yes,GPS,Gray,180.0,5100.0,6.0
-Gionee M3,,,2021-04-14,2021.0,6.53,128.0,16.0,"16 MP, (wide), PDAF__5 MP, (ultrawide)__2 MP, (macro)__2 MP, (depth)",Yes,GPS,"Black, Green, Sky, Gray",120.0,5000.0,6.0
-Gionee P15 Pro,,,2021-03-29,2021.0,6.82,64.0,13.0,"13 MP, (wide), AF__2 MP, (ultrawide)__0.1 MP, (depth)",Yes,GPS,"Fjord, Petrol Blue",120.0,6000.0,3.0
-Gionee Max Pro,,,2021-03-08,2021.0,6.52,32.0,13.0,"13 MP, (wide), AF__2 MP (depth)",Yes,GPS,"Black, Red, Blue",80.0,6000.0,3.0
-Gionee K30 Pro,,,2020-12-01,2020.0,6.53,128.0,16.0,"16 MP, f/1.8, (wide), PDAF__5 MP, 120˚ (ultrawide)__2 MP, (depth)",Yes,GPS,"Black, Blue, White",100.0,4000.0,6.0
-Gionee P12,,,2020-11-09,2020.0,6.1,16.0,13.0,"13 MP, (wide), AF__0.3 MP, (ultrawide)__0.3 MP, (depth)",Yes,GPS,"Black, Purple",80.0,3200.0,2.0
-Gionee M12,,,2020-11-16,2020.0,6.55,64.0,48.0,"48 MP, f/1.8, (wide), PDAF__5 MP, f/2.2, 115˚, (ultrawide)__2 MP (depth)__2 MP (depth)",Yes,GPS,"Magic Green, Dazzling Black",150.0,5100.0,4.0
-Gionee S12 Lite,,,2020-10-05,2020.0,6.52,32.0,13.0,"13 MP, (wide), AF__5 MP, (ultrawide)__2 MP (depth)",Yes,GPS,"Blue, Green, Gray",,4000.0,3.0
-Gionee S12,,,2020-07-15,2020.0,6.52,64.0,16.0,"16 MP, (wide), AF__8 MP, (ultrawide)__2 MP (depth)",Yes,GPS,"Black, Blue",140.0,4000.0,4.0
-Gionee M30,,,2020-08-31,2020.0,6.0,128.0,16.0,"16 MP, (wide), AF","Yes, with stereo speakers",GPS,Black,170.0,10000.0,8.0
-Gionee Max,,,2020-08-31,2020.0,6.1,32.0,13.0,"13 MP, (wide), AF__0.3 MP (depth)",Yes,GPS,"Black, Red, Royal Blue",70.0,5000.0,2.0
-Gionee K3 Pro,,,2020-09-01,2020.0,6.53,128.0,16.0,"16 MP, f/2.0, (wide), 1/3.1"", 1.0µm, AF__2 other unknown cameras",Yes,GPS,"Jade Green, Pearl White",80.0,4000.0,6.0
-Gionee K6,,,2020-05-27,2020.0,6.2,128.0,16.0,"16 MP, f/2.0, 26mm (wide), 1/3.1"", 1.0µm, AF__2 other unknown cameras",Yes,GPS,"Black, Blue",100.0,4350.0,6.0
-Gionee F205,,,2018-01-01,2018.0,5.45,16.0,8.0,"8 MP, AF",Yes,GPS,"Gold, Red, Blue",130.0,2670.0,2.0
-Gionee S11S,,,2017-12-01,2017.0,6.01,64.0,16.0,"16 MP, AF__8 MP",Yes,GPS,"Silver, Gold",500.0,3600.0,6.0
-Gionee S11,,,2017-12-01,2017.0,5.99,64.0,16.0,"16 MP, AF__5 MP, f/2.4, (depth)",Yes,GPS,"Moonlight blue, space gold, cherry powder",320.0,3410.0,4.0
-Gionee S11 lite,,,2018-02-01,2018.0,5.7,32.0,13.0,"13 MP, f/2.2, AF__2 MP, (depth)",Yes,GPS,"Gold, Dark Blue, Black",200.0,3030.0,4.0
-Gionee M7 Plus,,,2018-07-01,2018.0,6.43,128.0,16.0,"16 MP, AF__8 MP",Yes,GPS,Blue,670.0,5000.0,6.0
-Gionee M7 Power,,,2017-11-01,2017.0,6.0,64.0,13.0,"13 MP, f/2.0, AF",Yes,"GPS, GLONASS, BDS","Dark blue, black, gold",260.0,5000.0,4.0
-Gionee X1s,,,2017-09-01,2017.0,5.2,16.0,13.0,"13 MP, AF",Yes,GPS,"Black, Gold",,4000.0,3.0
-Gionee X1,,,2017-08-01,2017.0,5.0,16.0,8.0,"8 MP, AF",Yes,GPS,"Black, Gold",,3000.0,2.0
-Gionee P8 Max,,,2017-12-01,2017.0,5.5,32.0,13.0,"13 MP, f/2.2, AF",Yes,GPS,"Gold, Gray, White",,3150.0,3.0
-Gionee A1 Lite,,,2017-08-01,2017.0,5.3,32.0,13.0,"13 MP, f/2.0, 1/3.1"", 1.12µm, PDAF",Yes,GPS,"Gold, Black",,4000.0,3.0
-Gionee S10,,,2017-07-01,2017.0,5.5,64.0,16.0,"16 MP, AF__8 MP",Yes,GPS,"Cherry Gold, Dark Black, Indigo Blue, Primrose Green",340.0,3450.0,4.0
-Gionee S10B,,,2017-07-01,2017.0,5.5,64.0,13.0,"13 MP, PDAF__5 MP, f/2.4, (depth)",Yes,GPS,"Black, Gold",220.0,3700.0,4.0
-Gionee S10C,,,2017-07-01,2017.0,5.2,32.0,13.0,"13 MP, f/2.0, PDAF",Yes,GPS,"Black, Gold, Green",180.0,3100.0,4.0
-Gionee M6s Plus,,,2017-05-01,2017.0,6.0,64.0,12.0,"12 MP, f/1.9, 1/2.55"", 1.4µm, PDAF",Yes,GPS,Black,460.0,6020.0,6.0
-Gionee A1 Plus,,,2017-05-01,2017.0,6.0,64.0,13.0,"13 MP, f/2.0, 1/3.1"", 1.12µm, PDAF__5 MP, f/2.4, (depth)",Yes,GPS,"Gray, Mocha Gold",370.0,4550.0,4.0
-Gionee A1,,,2017-04-01,2017.0,5.5,64.0,13.0,"13 MP, f/2.0, 1/3.1"", 1.12µm, PDAF",Yes,GPS,"Black, Gray, Gold",280.0,4010.0,4.0
-Gionee F5,,,2017-02-01,2017.0,5.3,32.0,13.0,"13 MP, AF",Yes,GPS,"Gold, Rose gold",250.0,4000.0,4.0
-Gionee M2017,,,2016-12-01,2016.0,5.7,128.0,12.0,"12 MP, PDAF__13 MP, 2x optical zoom",Yes,GPS,"Black, Gold",1150.0,7000.0,6.0
-Gionee Steel 2,,,2017-01-01,2017.0,5.0,16.0,8.0,"8 MP, AF",Yes,GPS,"Jazz Gold, Gold Black",210.0,4000.0,3.0
-Gionee S9,,,2016-11-01,2016.0,5.5,64.0,13.0,"13 MP, PDAF__5 MP, f/2.4, (depth)",Yes,GPS,"Black, Gold, Rose Gold",370.0,3000.0,4.0
-Gionee P7,,,2016-12-01,2016.0,5.0,16.0,8.0,"8 MP, AF",Yes,GPS,"White, Latte Gold, Grаy",140.0,2300.0,2.0
-Gionee P7 Max,,,2016-10-01,2016.0,5.5,32.0,13.0,"13 MP, AF",Yes,GPS,Gold,190.0,3100.0,3.0
-Gionee F103 Pro,,,2016-10-01,2016.0,5.0,16.0,13.0,"13 MP, AF",Yes,GPS,"Gold, White, Gray",,2400.0,3.0
-Gionee S6s,,,2016-08-01,2016.0,5.5,32.0,13.0,"13 MP, f/2.0, 1/3.1"", 1.12µm, PDAF",Yes,GPS,"Mocha Gold, Latte Gold",280.0,3150.0,3.0
-Gionee M6 Plus,,,2016-09-01,2016.0,6.0,64.0,16.0,"16 MP, f/1.8, PDAF",Yes,GPS,Champagne,,6020.0,4.0
-Gionee M6,,,2016-09-01,2016.0,5.5,64.0,13.0,"13 MP, f/2.0, 1/3.1"", 1.12µm, PDAF",Yes,GPS,"Champagne, Gold",,5000.0,4.0
-Gionee S6 Pro,,,2016-06-01,2016.0,5.5,64.0,13.0,"13 MP, f/2.0, PDAF",Yes,GPS,"Gold, Silver, Rose Gold",390.0,3130.0,4.0
-Gionee P5 Mini,,,2016-04-01,2016.0,4.5,8.0,5.0,"5 MP, AF",Yes,GPS,"White, Black, Blue",90.0,1800.0,1.0
-Gionee W909,,,2016-06-01,2016.0,4.2,64.0,16.0,"16 MP, AF",Yes,GPS,Rose gold/Black,550.0,2530.0,4.0
-Gionee Marathon M5 mini,,,2016-02-01,2016.0,5.0,16.0,8.0,"8 MP, AF",Yes,GPS,"White, Gold, Black",120.0,4000.0,2.0
-Gionee Marathon M5 enjoy,,,2015-12-01,2015.0,5.5,16.0,8.0,"8 MP, AF",Yes,GPS,"White, Gold",340.0,5000.0,3.0
-Gionee Marathon M5 Plus,,,2015-12-01,2015.0,6.0,64.0,13.0,"13 MP, f/2.2, PDAF",Yes,GPS,"White, Gold",420.0,5020.0,3.0
-Gionee Marathon M5 lite,,,2016-01-01,2016.0,5.0,32.0,8.0,"8 MP, AF","Yes, with stereo speakers",GPS,"Gold, Gray",170.0,4000.0,3.0
-Gionee Pioneer P5W,,,2016-01-01,2016.0,5.0,16.0,5.0,"5 MP, AF",Yes,GPS,"White, Blue, Red, Yellow, Black",90.0,2000.0,1.0
-Gionee S6,,,2015-11-01,2015.0,5.5,32.0,13.0,"13 MP, f/2.0, AF",Yes,GPS,Gold,290.0,3150.0,3.0
-Gionee Elife S Plus,,,2015-12-01,2015.0,5.5,16.0,13.0,"13 MP, f/2.0, AF",Yes,GPS,"White, Gold, Dark Blue",,3150.0,3.0
-Gionee F103,,,2015-10-01,2015.0,5.0,16.0,8.0,"8 MP, AF",Yes,GPS,"Pearl White, Dawn White & black",130.0,2400.0,2.0
-Gionee Elife E8,,,2015-10-01,2015.0,6.0,64.0,24.0,"24 MP, f/2.0, PDAF, OIS","Yes, with stereo speakers",GPS,Gold,480.0,3500.0,3.0
-Gionee S5.1 Pro,,,2015-11-01,2015.0,5.0,16.0,13.0,"13 MP, f/2.0, AF",Yes,GPS,White,,2400.0,2.0
-Gionee Marathon M4,,,2015-08-01,2015.0,5.0,16.0,8.0,"8 MP, AF",Yes,GPS,"Black, White",220.0,5000.0,2.0
-Gionee Marathon M5,,,2015-11-01,2015.0,5.5,32.0,13.0,"13 MP, f/2.0, PDAF",Yes,GPS,"White, Gold, Black",330.0,6020.0,3.0
-Gionee Pioneer P4S,,,2015-05-01,2015.0,4.5,8.0,5.0,"5 MP, AF",Yes,GPS,"Black, White",120.0,1800.0,1.0
-Gionee Elife S7,,,2015-04-01,2015.0,5.2,16.0,13.0,"13 MP, f/2.0 AF",Yes,GPS,"White, Black, Maldives Blue",400.0,2700.0,2.0
-Gionee Pioneer P3S,,,2015-09-01,2015.0,4.5,16.0,5.0,"5 MP, AF",Yes,GPS,"White, Gray, Red, Gold",,2000.0,1.0
-Gionee Pioneer P2M,,,2015-06-01,2015.0,4.0,16.0,5.0,5 MP,Yes,GPS,"White, Gray, Gold",,3000.0,1.0
-Gionee Pioneer P2S,,,2014-05-01,2014.0,4.0,4.0,5.0,"5 MP, AF",Yes,"GPS, GLONASS","Black, White, Blue, Pink",,1600.0,0.4980544747081712
-Gionee S96,,,2014-03-01,2014.0,2.6,0.0622568093385214,2.0,2 MP,Yes,No,"White, Gold, Grey",,700.0,0.0622568093385214
-Gionee L800,,,2015-05-01,2015.0,2.6,0.007782101167315175,3.0,1.3 MP,Yes,No,"Black, Gold",,3000.0,0.007782101167315175
-Gionee L700,,,2015-05-01,2015.0,2.6,0.007782101167315175,3.0,1.3 MP,Yes,No,"Black, White",,1700.0,0.007782101167315175
-Gionee Marathon M3,,,2014-11-01,2014.0,5.0,8.0,8.0,"8 MP, f/2.2, AF",Yes,GPS,"Black, White",170.0,5000.0,1.0
-Gionee Elife S5.1,,,2014-11-01,2014.0,4.8,16.0,8.0,"8 MP, f/2.2, AF",Yes,GPS,"Black, White, Pink, Mint Green",240.0,2050.0,1.0
-Gionee Pioneer P6,,,2015-01-01,2015.0,5.0,8.0,5.0,"5 MP, AF",Yes,GPS,"Black, White",120.0,1950.0,1.0
-Gionee Pioneer P4,,,2014-06-01,2014.0,4.5,8.0,5.0,"5 MP, AF",Yes,GPS,"Black, White",100.0,1800.0,1.0
-Gionee Ctrl V6L,,,2014-11-01,2014.0,5.0,8.0,8.0,"8 MP, AF",Yes,GPS,"White, Blue",,1950.0,1.0
-Gionee Ctrl V5,,,2014-03-01,2014.0,4.7,8.0,8.0,"8 MP, AF",Yes,GPS,"Black, White",160.0,1800.0,1.0
-Gionee Elife S5.5,,,2014-03-01,2014.0,5.0,16.0,13.0,"13 MP, f/2.4, AF",Yes,GPS,"Black, white, blue, pink, purple",270.0,2300.0,2.0
-Gionee Elife E7 Mini,,,2014-04-01,2014.0,4.7,16.0,13.0,"13 MP, AF",Yes,GPS,"Black, White",230.0,2200.0,
-Gionee Elife E7,,,,,5.5,16.0,16.0,"16 MP, f/2.2, AF",Yes,GPS,"Black, White",340.0,2500.0,2.0
-Gionee Elife E6,,,,,5.0,32.0,13.0,"13 MP, f/2.2, AF",Yes,GPS,"Black, White",250.0,2000.0,2.0
-Gionee Elife E5,,,,,4.8,16.0,8.0,"8 MP, AF",Yes,GPS,"Black, White, Yellow",200.0,2000.0,1.0
-Gionee Elife E3,,,,,4.7,16.0,8.0,"8 MP, AF",Yes,GPS,"Black, White, Blue, Pink",180.0,1800.0,1.0
-Gionee M2,,,,,5.0,4.0,8.0,8 MP,Yes,GPS,"Black, White",130.0,4200.0,1.0
-Gionee Pioneer P3,,,,,4.3,4.0,5.0,"5 MP, AF",Yes,GPS,"Black, White",90.0,1700.0,0.4980544747081712
-Gionee Pioneer P2,,,,,4.0,4.0,5.0,5 MP,Yes,GPS,"Black, White",70.0,1700.0,0.4980544747081712
-Gionee Pioneer P1,,,,,3.5,0.4980544747081712,2.0,"2 MP, AF",Yes,No,Black,60.0,1500.0,0.2490272373540856
-Gionee Ctrl V1,,,,,3.95,4.0,2.0,2 MP,Yes,GPS,Cofee/Black,90.0,1700.0,0.4980544747081712
-Gionee Ctrl V2,,,,,3.5,4.0,15.0,3.15 MP,Yes,GPS,White,60.0,1500.0,0.4980544747081712
-Gionee Ctrl V3,,,,,4.3,4.0,5.0,"5 MP, AF",Yes,GPS,Black,100.0,1800.0,0.4980544747081712
-Gionee Ctrl V4s,,,,,4.5,8.0,8.0,"8 MP, AF",Yes,GPS,"Black, White",,1800.0,1.0
-Gionee Ctrl V4,,,,,4.5,4.0,5.0,"5 MP, AF",Yes,GPS,"Black, White",110.0,1800.0,0.4980544747081712
-Gionee Dream D1,,,,,4.65,4.0,8.0,"8 MP, AF",Yes,GPS,Black,170.0,2100.0,1.0
-Google Pixel 9 Pro XL,,,2024-08-22,2024.0,6.8,128.0,50.0,"50 MP, f/1.7, 25mm (wide), 1/1.31"", 1.2µm, dual pixel PDAF, OIS__48 MP, f/2.8, 113mm (periscope telephoto), 1/2.55"", dual pixel PDAF, OIS, 5x optical zoom__48 MP, f/1.7, 123˚ (ultrawide), 1/2.55"", dual pixel PDAF, ","Yes, with stereo speakers","GPS (L1+L5), GLONASS, GALILEO, BDS, QZSS, NavIC","Porcelain, Rose Quartz, Hazel, Obsidian",869.99,5060.0,16.0
-Google Pixel 9 Pro,,,2024-09-09,2024.0,6.3,128.0,50.0,"50 MP, f/1.7, 25mm (wide), 1/1.31"", 1.2µm, dual pixel PDAF, OIS__48 MP, f/2.8, 113mm (periscope telephoto), 1/2.55"", dual pixel PDAF, OIS, 5x optical zoom__48 MP, f/1.7, 123˚ (ultrawide), 1/2.55"", dual pixel PDAF","Yes, with stereo speakers","GPS (L1+L5), GLONASS, GALILEO, BDS, QZSS, NavIC","Porcelain, Rose Quartz, Hazel, Obsidian",875.27,4700.0,16.0
-Google Pixel 9,,,2024-08-22,2024.0,6.3,128.0,50.0,"50 MP, f/1.7, 25mm (wide), 1/1.31"", 1.2µm, dual pixel PDAF, OIS__48 MP, f/1.7, 123˚ (ultrawide), 1/2.55"", dual pixel PDAF","Yes, with stereo speakers","GPS (L1+L5), GLONASS, GALILEO, BDS, QZSS, NavIC","Obsidian, Porcelain, Wintergreen, Peony",673.55,4700.0,12.0
-Google Pixel 9 Pro Fold,,,2024-09-04,2024.0,8.0,256.0,48.0,"48 MP, f/1.7, 25mm (wide), 1/2.0"", 0.8µm, dual pixel PDAF, OIS__10.8 MP, f/3.1, 112mm (telephoto), 1/3.2"", dual pixel PDAF, OIS, 5x optical zoom__10.5 MP, f/2.2, 127˚ (ultrawide), 1/3.4"", PDAF","Yes, with stereo speakers","GPS (L1+L5), GLONASS, GALILEO, BDS, QZSS, NavIC","Obsidian, Porcelain",,4650.0,16.0
-Google Pixel 8 Pro,,,2023-10-12,2023.0,6.7,128.0,50.0,"50 MP, f/1.7, 25mm (wide), 1/1.31"", 1.2µm, dual pixel PDAF, OIS__48 MP, f/2.8, 113mm (periscope telephoto), 1/2.55"", 0.7µm, dual pixel PDAF, OIS, 5x optical zoom__48 MP, f/2.0, 126˚ (ultrawide), 1/2.0"", 0.8µm, dual pixel PDAF","Yes, with stereo speakers","GPS (L1+L5), GLONASS (G1), GALILEO (E1+E5a), QZSS (L1+L5)","Obsidian, Porcelain, Bay, Mint",539.9,5050.0,12.0
-Google Pixel 8,,,2023-10-12,2023.0,6.2,128.0,50.0,"50 MP (12 MP eff.), f/1.7, 25mm (wide), 1/1.31"", 1.2µm, dual pixel PDAF, OIS__12 MP, f/2.2, 126˚ (ultrawide), 1/2.9"", 1.25µm, AF","Yes, with stereo speakers","GPS (L1+L5), GLONASS (G1), GALILEO (E1+E5a), QZSS (L1+L5)","Obsidian, Hazel, Rose, Mint",398.22,4575.0,8.0
-Google Pixel Fold,,,2023-06-27,2023.0,7.6,256.0,48.0,"48 MP, f/1.7, 25mm (wide), 1/2.0"", 0.8µm, dual pixel PDAF, OIS__10.8 MP, f/3.1, 112mm (telephoto), 1/3.1"", 1.22µm, dual pixel PDAF, OIS, 5x optical zoom__10.8 MP, f/2.2, 121˚, (ultrawide), 1/3.0"", 1.25µm","Yes, with stereo speakers","GPS, GLONASS, GALILEO, BDS","Porcelain, Obsidian",941.33,4821.0,12.0
-Google Pixel 7a,,,2023-05-10,2023.0,6.1,128.0,64.0,"64 MP, f/1.9, 26mm (wide), 1/1.73"", 0.8µm, dual pixel PDAF, OIS__13 MP, f/2.2, 120˚ (ultrawide), 1.12µm","Yes, with stereo speakers","GPS, GLONASS, GALILEO, BDS, QZSS, NavIC","Charcoal, Snow, Sea, Coral",262.22,4385.0,8.0
-Google Pixel 7 Pro,,,2022-10-13,2022.0,6.7,128.0,50.0,"50 MP, f/1.9, 25mm (wide), 1/1.31"", 1.2µm, dual pixel PDAF, OIS__48 MP, f/3.5, 120mm (periscope telephoto), 1/2.55"", 0.7µm, dual pixel PDAF, OIS, 5x optical zoom__12 MP, f/2.2, 126˚ (ultrawide), 1/2.9"", 1.25µm, AF","Yes, with stereo speakers","GPS (L1+L5), GLONASS (G1), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5)","Obsidian, Snow, Hazel",316.78,5000.0,8.0
-Google Pixel 7,,,2022-10-13,2022.0,6.3,128.0,50.0,"50 MP, f/1.9, 25mm (wide), 1/1.31"", 1.2µm, dual pixel PDAF, OIS__12 MP, f/2.2, 114˚ (ultrawide), 1/2.9"", 1.25µm","Yes, with stereo speakers","GPS (L1+L5), GLONASS (G1), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5)","Obsidian, Lemongrass, Snow",237.14,4355.0,8.0
-Google Pixel 6a,,,2022-07-21,2022.0,6.1,128.0,2.0,"12.2 MP, f/1.7, 27mm, (wide), 1/2.55"", 1.4µm, dual pixel PDAF, OIS__12 MP, f/2.2, 17mm, 114˚ (ultrawide), 1.25µm","Yes, with stereo speakers","GPS, GLONASS, GALILEO, QZSS","Chalk, Charcoal, Sage",171.0,4410.0,6.0
-Google Pixel 6 Pro,,,2021-10-28,2021.0,6.7,128.0,50.0,"50 MP, f/1.9, 25mm (wide), 1/1.31"", 1.2µm, dual pixel PDAF, OIS__48 MP, f/3.5, 104mm (periscope telephoto), 1/2.0"", 0.8µm, PDAF, OIS, 4x optical zoom__12 MP, f/2.2, 17mm, 114˚ (ultrawide), 1.25µm","Yes, with stereo speakers","GPS (L1+L5), GLONASS (G1), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5)","Cloudy White, Sorta Sunny, Stormy Black",234.6,5003.0,12.0
-Google Pixel 6,,,2021-10-28,2021.0,6.4,128.0,50.0,"50 MP, f/1.9, 25mm (wide), 1/1.31"", 1.2µm, dual pixel PDAF, OIS__12 MP, f/2.2, 17mm, 114˚ (ultrawide), 1.25µm","Yes, with stereo speakers","GPS (L1+L5), GLONASS (G1), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5)","Sorta Seafoam, Kinda Coral, Stormy Black",165.16,4614.0,8.0
-Google Pixel 5a 5G,,,2021-08-26,2021.0,6.34,128.0,2.0,"12.2 MP, f/1.7, 27mm, (wide), 1/2.55"", 1.4µm, dual pixel PDAF, OIS__16 MP, f/2.2, 119˚ (ultrawide), 1.0µm","Yes, with stereo speakers","GPS, GLONASS, GALILEO, QZSS, BDS",Mostly Black,,4680.0,6.0
-Google Pixel 4a 5G,,,2020-11-05,2020.0,6.2,128.0,2.0,"12.2 MP, f/1.7, 27mm (wide), 1/2.55"", 1.4µm, dual pixel PDAF, OIS__16 MP, f/2.2, 107˚ (ultrawide), 1.0µm","Yes, with stereo speakers","GPS, GLONASS, GALILEO, QZSS, BDS","Just Black, Clearly White",144.91,3885.0,6.0
-Google Pixel 4a,,,2020-08-20,2020.0,5.81,128.0,2.0,"12.2 MP, f/1.7, 27mm (wide), 1/2.55"", 1.4µm, dual pixel PDAF, OIS","Yes, with stereo speakers","GPS, GLONASS, GALILEO, QZSS, BDS","Just Black, Barely Blue",135.99,3140.0,6.0
-Google Pixel 4 XL,,,2019-10-22,2019.0,6.3,64.0,2.0,"12.2 MP, f/1.7, 27mm (wide), 1/2.55"", 1.4µm, dual pixel PDAF, OIS__16 MP, f/2.4, 50mm (telephoto), 1/3.6"", 1.0µm, PDAF, OIS, 2x optical zoom","Yes, with stereo speakers","GPS, GLONASS, BDS, GALILEO","Clearly White, Just Black, Oh So Orange",150.98,3700.0,6.0
-Google Pixel 4,,,2019-10-22,2019.0,5.7,64.0,2.0,"12.2 MP, f/1.7, 27mm (wide), 1/2.55"", 1.4µm, dual pixel PDAF, OIS__16 MP, f/2.4, 50mm (telephoto), 1/3.6"", 1.0µm, PDAF, OIS, 2x optical zoom","Yes, with stereo speakers","GPS, GLONASS, BDS, GALILEO","Clearly White, Just Black, Oh So Orange",118.85,2800.0,6.0
-Google Pixel 3a XL,,,2019-05-15,2019.0,6.0,64.0,2.0,"12.2 MP, f/1.8, 28mm (wide), 1/2.55"", 1.4µm, dual pixel PDAF, OIS","Yes, with stereo speakers","GPS, GLONASS, GALILEO","Just Black, Clearly White, Purple-ish",290.0,3700.0,4.0
-Google Pixel 3a,,,2019-05-15,2019.0,5.6,64.0,2.0,"12.2 MP, f/1.8, 28mm (wide), 1/2.55"", 1.4µm, dual pixel PDAF, OIS","Yes, with stereo speakers","GPS, GLONASS, GALILEO","Just Black, Clearly White, Purple-ish",120.01,3000.0,4.0
-Google Pixel 3 XL,,,2018-10-18,2018.0,6.3,64.0,2.0,"12.2 MP, f/1.8, 28mm (wide), 1/2.55"", 1.4µm, dual pixel PDAF, OIS","Yes, with stereo speakers","GPS, GLONASS, BDS, GALILEO","Clearly White, Just Black, Not Pink",260.0,3430.0,4.0
-Google Pixel 3,,,2018-10-18,2018.0,5.5,64.0,2.0,"12.2 MP, f/1.8, 28mm (wide), 1/2.55"", 1.4µm, dual pixel PDAF, OIS","Yes, with stereo speakers","GPS, GLONASS, BDS, GALILEO","Clearly White, Just Black, Not Pink",450.0,2915.0,4.0
-Google Pixel 2,,,2017-10-17,2017.0,5.0,64.0,2.0,"12.2 MP, f/1.8, 27mm (wide), 1/2.55"", 1.4µm, dual pixel PDAF, OIS","Yes, with stereo speakers","GPS, GLONASS, BDS, GALILEO","Kinda Blue, Just Black, Clearly White",610.0,2700.0,4.0
-Google Pixel 2 XL,,,2017-10-17,2017.0,6.0,64.0,2.0,"12.2 MP, f/1.8, 27mm (wide), 1/2.55"", 1.4µm, dual pixel PDAF, OIS","Yes, with stereo speakers","GPS, GLONASS, BDS, GALILEO","Just Black, Black & White",520.0,3520.0,4.0
-Google Pixel XL,,,2016-10-20,2016.0,5.5,32.0,3.0,"12.3 MP, f/2.0, 1/2.3"", 1.55µm, PDAF",Yes,"GPS, GLONASS","Quite Black, Very Silver, Really Blue",400.0,3450.0,4.0
-Google Pixel,,,2016-10-20,2016.0,5.0,32.0,3.0,"12.3 MP, f/2.0, 1/2.3"", 1.55µm, PDAF",Yes,"GPS, GLONASS","Quite Black, Very Silver, Really Blue",290.0,2770.0,4.0
-HTC U24 Pro,,,2024-07-01,2024.0,6.8,256.0,50.0,"50 MP, f/1.9, (wide), PDAF, OIS__50 MP, f/2.0, (telephoto), PDAF, 2x optical zoom__8 MP, f/2.2, 120˚ (ultrawide), 1/4.0"", 1.12µm",Yes,"GPS, GLONASS, GALILEO, BDS","Space Blue, Twilight White",759.0,4600.0,12.0
-HTC A101 Plus,,,2024-05-03,2024.0,10.95,128.0,13.0,13 MP__Secondary lens,"Yes, with stereo speakers",Unspecified,"Gray, Silver",150.0,7000.0,8.0
-HTC A104,,,2023-07-01,2023.0,10.36,128.0,5.0,"5 MP, f/2.2, AF","Yes, with stereo speakers (4 speakers)","GPS, GLONASS, GALILEO","Black, Silver",180.0,7000.0,8.0
-HTC Wildfire E star,,,2023-08-01,2023.0,6.52,16.0,8.0,"8 MP, f/2.2, (wide), AF__0.08 MP, f/2.8 (auxiliary lens)",Yes,"GPS, GLONASS, GALILEO",Gray,100.0,3000.0,2.0
-HTC U23,,,2023-07-26,2023.0,6.7,128.0,64.0,"64 MP, f/1.9, (wide), PDAF__8 MP, f/2.4, 120˚ (ultrawide), 1/4.0"", 1.12µm__2 MP, f/2.4, (depth)",Yes,"GPS, GLONASS, GALILEO, BDS","Aqua Blue, Roland Violet",,4600.0,8.0
-HTC U23 Pro,,,2023-05-18,2023.0,6.7,256.0,108.0,"108 MP, f/1.7, (wide), 1/1.67"", 0.64μm, PDAF, OIS__8 MP, f/2.4, 120˚ (ultrawide), 1/4.0"", 1.12µm__5 MP, f/2.2, (macro)__2 MP, f/2.4, (depth)",Yes,"GPS, GLONASS, GALILEO, BDS","Snow White, Coffee Black",243.65,4600.0,8.0
-HTC A103 Plus,,,2023-08-01,2023.0,10.1,64.0,5.0,"5 MP, f/2.2, AF",Yes,"GPS, GLONASS, GALILEO",Gray,190.0,6000.0,4.0
-HTC A103,,,2023-08-01,2023.0,10.1,64.0,5.0,5 MP,"Yes, with stereo speakers","GPS, GLONASS","Gray, Silver",140.0,6000.0,4.0
-HTC A102,,,2023-08-01,2023.0,11.0,128.0,20.0,"20 MP, f/2.2, AF",Yes,"GPS, GLONASS, GALILEO",Gray,170.0,8000.0,8.0
-HTC A101,,,2022-08-01,2022.0,10.1,128.0,16.0,"16 MP, f/2.2, (wide), AF__2 MP, f/2.2, (ultrawide)","Yes, with stereo speakers","GPS, GLONASS, GALILEO","Gray, Silver",300.0,7000.0,8.0
-HTC Wildfire E2 Play,,,2023-04-17,2023.0,6.82,128.0,48.0,"48 MP, f/2.2, (wide), PDAF__5 MP, (ultrawide)__2 MP, f/2.4, (macro)__2 MP, f/2.4, (depth)",Yes,"GPS, GLONASS, GALILEO","Black, Blue",,4600.0,8.0
-HTC Wildfire E3 lite,,,2023-04-10,2023.0,6.52,32.0,13.0,"13 MP, f/2.2, (wide), AF__2 MP, f/2.4, (depth)",Yes,"GPS, GLONASS, GALILEO","Black, Blue",,5000.0,3.0
-HTC Wildfire E plus,,,2022-10-24,2022.0,6.52,32.0,13.0,"13 MP, (wide), AF__5 MP",Yes,"GPS, GLONASS, BDS",Black,130.0,5150.0,2.0
-HTC Desire 22 Pro,,,2022-07-10,2022.0,6.6,128.0,64.0,"64 MP, f/1.8, (wide), PDAF__13 MP, f/2.4, 118˚ (ultrawide)__5 MP, f/2.4, (depth)",Yes,"GPS, GLONASS, GALILEO, BDS","Wave Gold, Starry Night Black",460.0,4520.0,8.0
-HTC Wildfire E2 Plus,,,2021-12-14,2021.0,6.82,64.0,13.0,"13 MP, f/2.2, (wide), PDAF__5 MP, (ultrawide)__2 MP, f/2.4, (macro)__2 MP, f/2.4, (depth)",Yes,"GPS, GLONASS, GALILEO, BDS",Black,160.0,4600.0,4.0
-HTC Wildfire E3,,,2021-04-11,2021.0,6.52,64.0,13.0,"13 MP, f/2.0, (wide), PDAF__8 MP, f/2.2, (ultrawide)__2 MP, f/2.4, (macro)__2 MP, f/2.4, (depth)",Yes,"GPS, GLONASS, GALILEO, BDS","Blue, Black",130.0,4000.0,4.0
-HTC Desire 21 Pro 5G,,,2021-01-21,2021.0,6.7,128.0,48.0,"48 MP, f/1.8, 26mm (wide), 1/2.0"", 0.8µm, PDAF__8 MP, f/2.2, 118˚ (ultrawide)__2 MP, f/2.4, (macro)__5 MP, f/2.4, (depth)",Yes,"GPS, GLONASS, GALILEO, BDS","Blue, Purple",350.0,5000.0,8.0
-HTC Desire 20+,,,2020-10-22,2020.0,6.5,128.0,48.0,"48 MP, f/1.8, 26mm (wide), 1/2.0"", 0.8µm, PDAF__5 MP, f/2.2, 115˚ (ultrawide)__2 MP, f/2.4, (macro)__5 MP, f/2.4, (depth)",Yes,"GPS, GLONASS, GALILEO, BDS","Dawn Orange, Twilight Black, Blue",250.0,5000.0,6.0
+Samsung Galaxy S10,,,2019-03-08,2019.0,6.1,128.0,12.0,"12 MP, f/1.5-2.4, 26mm (wide), 1/2.55"", 1.4µm, dual pixel PDAF, OIS__12 MP, f/2.4, 52mm (telephoto), 1/3.6"", 1.0µm, AF, OIS, 2x optical zoom__16 MP, f/2.2, 12mm (ultrawide), 1/3.1"", 1.0µm, Super Steady video","Yes, with stereo speakers","GPS, GLONASS, BDS, GALILEO","Prism White, Prism Black, Prism Green, Prism Blue, Canary Yellow, Flamingo Pink, Cardinal Red, Smoke Blue",156.2,3400.0,6.0
+Samsung Galaxy S10e,,,2019-03-08,2019.0,5.8,128.0,12.0,"12 MP, f/1.5-2.4, 26mm (wide), 1/2.55"", 1.4µm, dual pixel PDAF, OIS__16 MP, f/2.2, 12mm (ultrawide), 1/3.1"", 1.0µm, Super Steady video","Yes, with stereo speakers","GPS, GLONASS, BDS, GALILEO","Prism White, Prism Black, Prism Green, Prism Blue, Canary Yellow, Flamingo Pink",230.0,3100.0,6.0
+Samsung Galaxy S9,,,2018-03-09,2018.0,5.8,64.0,12.0,"12 MP, f/1.5-2.4, 26mm (wide), 1/2.55"", 1.4µm, dual pixel PDAF, OIS","Yes, with stereo speakers","GPS, GLONASS, BDS, GALILEO","Midnight Black, Coral Blue, Titanium Gray, Lilac Purple, Burgundy Red, Sunrise Gold, Ice Blue",184.99,3000.0,4.0
+Samsung Galaxy S9+,,,2018-03-01,2018.0,6.2,64.0,12.0,"12 MP, f/1.5-2.4, 26mm (wide), 1/2.55"", 1.4µm, dual pixel PDAF, OIS__12 MP, f/2.4, 52mm (telephoto), 1/3.6"", 1.0µm, AF, OIS, 2x optical zoom","Yes, with stereo speakers","GPS, GLONASS, BDS, GALILEO","Midnight Black, Coral Blue, Titanium Gray, Lilac Purple, Burgundy Red, Sunrise Gold, Ice Blue, Polaris Blue",219.97,3500.0,4.0
+Samsung Galaxy A10,,,2019-03-19,2019.0,6.2,32.0,13.0,"13 MP, f/1.9, 28mm (wide), AF",Yes,"GPS, GLONASS, GALILEO, BDS","Blue, Black, Red, Gold",160.0,3400.0,2.0
+Xiaomi Redmi Note 8,,,2019-10-16,2019.0,6.3,32.0,48.0,"48 MP, f/1.8, 26mm (wide), 1/2.0"", 0.8µm, PDAF__8 MP, f/2.2, 120˚ (ultrawide), 1/4.0"", 1.12µm__2 MP, f/2.4, (macro)__2 MP, f/2.4, (depth)",Yes,"GPS, GLONASS, BDS","Neptune Blue, Moonlight White, Space Black, Nebula Purple, Cosmic Purple",220.0,4000.0,3.0
+Xiaomi Redmi Note 8 Pro,,,2019-09-24,2019.0,6.53,64.0,64.0,"64 MP, f/1.9, 26mm (wide), 1/1.72"", 0.8µm, PDAF__8 MP, f/2.2, 13mm (ultrawide), 1/4.0"", 1.12µm__2 MP, f/2.4, (macro)__2 MP, f/2.4, (depth)",Yes,"GPS, GLONASS, GALILEO, BDS","Black, Red, Blue, White, Deep Sea Blue, Midnight Blue, Electric Blue, Twilight Orange",220.0,4500.0,4.0
+Samsung Galaxy S20,,,2020-03-06,2020.0,6.2,128.0,12.0,"12 MP, f/1.8, 26mm (wide), 1/1.76"", 1.8µm, dual pixel PDAF, OIS__64 MP, f/2.0, 29mm (telephoto), 1/1.72"", 0.8µm, PDAF, OIS, 1.1x optical zoom, 3x hybrid zoom__12 MP, f/2.2, 13mm, 120˚ (ultrawide), 1/2.55"" 1.4µm, Super Steady video","Yes, with stereo speakers","GPS, GLONASS, BDS, GALILEO","Cosmic Grey, Cloud Blue, Cloud Pink, Cloud White, Aura Red",243.0,4000.0,8.0
+Samsung Galaxy S20+,,,2020-03-06,2020.0,6.7,128.0,12.0,"12 MP, f/1.8, 26mm (wide), 1/1.76"", 1.8µm, dual pixel PDAF, OIS__64 MP, f/2.0, 29mm (telephoto), 1/1.72"", 0.8µm, PDAF, OIS, 1.1x optical zoom, 3x hybrid zoom__12 MP, f/2.2, 13mm, 120˚ (ultrawide), 1/2.55"" 1.4µm, Super Steady video__0.3 MP, TOF 3D, f/1.0, (depth)","Yes, with stereo speakers","GPS, GLONASS, BDS, GALILEO","Cosmic Black, Cosmic Grey, Cloud Blue, Cloud White, Aura Red, Aura Blue",225.0,4500.0,8.0
+Samsung Galaxy S20 Ultra,,,2020-03-15,2020.0,6.9,128.0,108.0,"108 MP, f/1.8, 26mm (wide), 1/1.33"", 0.8µm, PDAF, OIS__48 MP, f/3.5, 103mm (periscope telephoto), 1/2.0"", 0.8µm, PDAF, OIS, 4x optical zoom, 10x hybrid zoom__12 MP, f/2.2, 13mm, 120˚ (ultrawide), 1/2.55"" 1.4µm, Super Steady video__0.3 MP, TOF 3D, f/1.0, (depth)","Yes, with stereo speakers","GPS, GLONASS, BDS, GALILEO","Cosmic Grey, Cosmic Black, Cloud White",690.0,5000.0,12.0
+Samsung Galaxy A50,,,2019-03-18,2019.0,6.4,64.0,25.0,"25 MP, f/1.7, 26mm (wide), PDAF__8 MP, f/2.2, 13mm (ultrawide), 1/4.0"", 1.12µm__5 MP, f/2.2, (depth)",Yes,"GPS, GLONASS, GALILEO, BDS","Black, White, Blue, Coral",270.0,4000.0,4.0
+Samsung Galaxy A20,,,2019-04-05,2019.0,6.4,32.0,13.0,"13 MP, f/1.9, 28mm (wide), AF__5 MP, f/2.2, 12mm (ultrawide)",Yes,"GPS, GLONASS, BDS","Black, Deep Blue, Red, Coral Orange, Gold",,4000.0,3.0
+Xiaomi Redmi Note 7,,,2019-02-28,2019.0,6.3,32.0,48.0,"48 MP, f/1.8, (wide), 1/2.0"", 0.8µm, PDAF__5 MP, f/2.2, (depth)__or__12 MP, f/2.2, (wide), 1/2.9"", 1.25µm, PDAF__2 MP, f/2.4, (depth)",Yes,"GPS, GLONASS, BDS","Blue, Black, Twilight Gold, White",170.0,4000.0,3.0
+Xiaomi Redmi Note 7 Pro,,,2019-03-18,2019.0,6.3,64.0,48.0,"48 MP, f/1.8, (wide), 1/2.0"", 0.8µm, PDAF__5 MP, f/2.4, (depth)",Yes,"GPS, GLONASS, BDS","Nebula Red, Neptune Blue, Space Black, Astro White",260.0,4000.0,4.0
+Samsung Galaxy A21s,,,2020-06-02,2020.0,6.5,32.0,48.0,"48 MP, f/2.0, 26mm (wide), 1/2.0"", 0.8µm, PDAF__8 MP, f/2.2, 123˚ (ultrawide), 1/4.0"", 1.12µm__2 MP, f/2.4, (macro)__2 MP, f/2.4, (depth)",Yes,"GPS, GLONASS, GALILEO, BDS","Black, White, Blue, Red",220.0,5000.0,2.0
+Samsung Galaxy A01,,,2020-01-01,2020.0,5.7,16.0,13.0,"13 MP, f/2.2, 28mm (wide), 1/3.1"", 1.12µm, AF__2 MP, f/2.4, (depth)",Yes,"GPS, GLONASS, GALILEO, BDS","Black, Blue, Red",200.0,3000.0,2.0
+Samsung Galaxy A11,,,2020-05-01,2020.0,6.4,32.0,13.0,"13 MP, f/1.8, 27mm (wide), AF__5 MP, f/2.2, 115˚ (ultrawide)__2 MP, f/2.4, (depth)",Yes,"GPS, GLONASS, GALILEO, BDS","Black, White, Blue, Red",160.0,4000.0,2.0
+Samsung Galaxy J2 Core,,,2018-08-01,2018.0,5.0,8.0,8.0,"8 MP, f/2.2, AF",Yes,"GPS, GLONASS, BDS","Black, Gold, Lavender",120.0,2600.0,1.0
+Xiaomi Redmi Note 9 Pro,,,2020-05-05,2020.0,6.67,64.0,64.0,"64 MP, f/1.9, 26mm (wide), 1/1.72"", 0.8µm, PDAF__8 MP, f/2.2, 119˚ (ultrawide), 1/4.0"", 1.12µm__5 MP, f/2.4, (macro), AF__2 MP, f/2.4, (depth)",Yes,"GPS, GLONASS, GALILEO, BDS","Tropical Green, Glacier White, Interstellar Gray",110.99,5020.0,6.0
+Samsung Galaxy S22 Ultra 5G,,,2022-02-25,2022.0,6.8,128.0,108.0,"108 MP, f/1.8, 23mm (wide), 1/1.33"", 0.8µm, PDAF, OIS__10 MP, f/2.4, 70mm (telephoto), 1/3.52"", 1.12µm, PDAF, OIS, 3x optical zoom__10 MP, f/4.9, 230mm (periscope telephoto), 1/3.52"", 1.12µm, PDAF, OIS, 10x optical zoom__12 MP, f/2.2, 13mm, 120˚ (ultrawide), 1/2.55"", 1.4µm, dual pixel PDAF, Super Steady video","Yes, with stereo speakers","GPS, GLONASS, BDS, GALILEO","Phantom Black, White, Burgundy, Green, Graphite, Red, Sky Blue, Bora Purple",435.0,5000.0,8.0
+Xiaomi Redmi 6A,,,2018-06-01,2018.0,5.45,16.0,13.0,"13 MP, f/2.2, PDAF",Yes,"GPS, GLONASS, BDS","Black, Grey, Blue, Gold, Rose Gold",110.0,3000.0,2.0
+Samsung Galaxy S20 FE,,,2020-10-02,2020.0,6.5,128.0,12.0,"12 MP, f/1.8, 26mm (wide), 1/1.76"", 1.8µm, dual pixel PDAF, OIS__8 MP, f/2.4, 76mm (telephoto), 1/4.5"", 1.0µm, PDAF, OIS, 3x optical zoom__12 MP, f/2.2, 13mm, 123˚ (ultrawide), 1/3.0"", 1.12µm","Yes, with stereo speakers","GPS, GLONASS, BDS, GALILEO","Cloud Lavender, Cloud Mint, Cloud Navy, Cloud White, Cloud Red, Cloud Orange",390.0,4500.0,6.0
+Oppo A5 Pro,,,2024-12-27,2024.0,6.7,256.0,50.0,"50 MP, f/1.8, 27mm (wide), PDAF__2 MP, f/2.4, (depth)","Yes, with stereo speakers","GPS, GALILEO, GLONASS, BDS, QZSS","Black, White, Red, Purple",260.0,6000.0,8.0
+Oppo A59,,,2023-12-25,2023.0,6.56,128.0,13.0,"13 MP, f/2.2, 25mm (wide), PDAF__2 MP, f/2.4, (depth)",Yes,"GPS, GALILEO, GLONASS, BDS","Silk Gold, Starry Black",,5000.0,4.0
+Oppo A58 4G,,,2023-07-28,2023.0,6.72,128.0,50.0,"50 MP, f/1.8, (wide), AF__2 MP, f/2.4, (depth)","Yes, with stereo speakers","GPS, GALILEO, GLONASS, BDS, QZSS","Glowing Black, Dazzling Green",150.0,5000.0,6.0
+Oppo A56s,,,2023-01-09,2023.0,6.56,128.0,13.0,"13 MP, f/2.2, 26mm (wide), 1/3.06"", 1.12µm, AF__2 MP, f/2.4, (depth)","Yes, with stereo speakers","GPS, GLONASS, GALILEO, BDS, QZSS","Black, Blue",150.0,5000.0,8.0
+Oppo A58x,,,2022-12-15,2022.0,6.56,128.0,13.0,"13 MP, f/2.2, 25mm (wide), PDAF__2 MP, f/2.4, (depth)","Yes, with stereo speakers","GPS, GALILEO, GLONASS, BDS, QZSS","Black, Blue, Violet",180.0,5000.0,6.0
+Oppo A58 (China),,,2022-11-10,2022.0,6.56,128.0,50.0,"50 MP, f/1.8, 27mm (wide), PDAF__2 MP, f/2.4, (depth)","Yes, with stereo speakers","GPS, GALILEO, GLONASS, BDS, QZSS","Black, Blue, Violet",230.0,5000.0,6.0
+Oppo A57e,,,2022-08-31,2022.0,6.56,64.0,13.0,"13 MP, f/2.2, 26mm (wide), 1/3.06"", 1.12µm, AF__2 MP, f/2.4, (depth)",Yes,GPS,"Glowing Black, Glowing Green",180.0,5000.0,4.0
+Oppo A57s,,,2022-09-12,2022.0,6.56,64.0,50.0,"50 MP, f/1.8, 27mm (wide), PDAF__2 MP, f/2.4, (depth)","Yes, with stereo speakers","GPS, GLONASS, BDS, GALILEO, QZSS","Starry Black, Sky Blue",,5000.0,4.0
+Oppo A57 4G,,,2022-06-06,2022.0,6.56,64.0,13.0,"13 MP, f/2.2, 26mm (wide), 1/3.06"", 1.12µm, AF__2 MP, f/2.4, (depth)",Yes,GPS,"Glowing Black, Glowing Green",159.9,5000.0,3.0
+Oppo A55s,,,2022-04-18,2022.0,6.5,128.0,13.0,"13 MP, f/2.2, 25mm (wide), 1/3.06"", 1.12µm, PDAF__2 MP, f/2.4, (macro)__2 MP, f/2.4, (depth)",Yes,"GPS, GLONASS, GALILEO, BDS, QZSS","Black, Blue, Gold",160.0,5000.0,6.0
+Oppo A57,,,2022-04-15,2022.0,6.56,128.0,13.0,"13 MP, f/2.2, 26mm (wide), 1/3.06"", 1.12µm, AF__2 MP, f/2.4, (depth)","Yes, with stereo speakers","GPS, GLONASS, GALILEO, BDS, QZSS","Black, Blue, Lilac",200.0,5000.0,6.0
+Oppo A54s,,,2021-11-18,2021.0,6.52,128.0,50.0,"50 MP, f/2.2, 26mm (wide), PDAF__2 MP, f/2.4, (macro)__2 MP, f/2.4, (depth)",Yes,"GPS, GLONASS, GALILEO, BDS, QZSS","Pearl Blue, Space Silver, Crystal Black",170.0,5000.0,4.0
+Oppo A56 5G,,,2021-11-16,2021.0,6.5,128.0,13.0,"13 MP, f/2.2, 25mm (wide), 1/3.06"", 1.12µm, PDAF__2 MP, f/2.4, (depth)",Yes,"GPS, GLONASS, GALILEO, BDS, QZSS","Black, Blue, Violet",220.0,5000.0,4.0
+Oppo A55,,,2021-10-01,2021.0,6.51,64.0,50.0,"50 MP, f/1.8 26mm (wide), PDAF__2 MP, f/2.4, (macro)__2 MP, f/2.4, (depth)",Yes,"GPS, GLONASS, GALILEO, BDS, QZSS","Rainbow Blue, Starry Black, Green",,5000.0,4.0
+Oppo A53s 5G,,,2021-05-07,2021.0,6.52,128.0,13.0,"13 MP, f/2.2, 25mm (wide), 1/3.06"", 1.12µm, PDAF__2 MP, f/2.4, (macro)__2 MP, f/2.4, (depth)",Yes,"GPS, GLONASS, GALILEO, BDS, QZSS","Crystal Blue, Ink Black",170.0,5000.0,6.0
+Oppo A54 5G,,,2021-04-14,2021.0,6.5,64.0,48.0,"48 MP, f/1.7, 26mm (wide), 1/2.0"", 0.8µm, PDAF__8 MP, f/2.2, 119˚ (ultrawide), 1/4.0"", 1.12µm__2 MP, f/2.4, (macro)__2 MP, f/2.4, (depth)",Yes,"GPS, GLONASS, BDS, QZSS","Fluid Black, Fantastic Purple, Space Silver",120.0,5000.0,4.0
+Oppo A54,,,2021-04-01,2021.0,6.51,64.0,13.0,"13 MP, f/2.2, 25mm (wide), 1/3.06"", 1.12µm, PDAF__2 MP, f/2.4, (macro)__2 MP, f/2.4, (depth)",Yes,"GPS, GLONASS, GALILEO, BDS","Crystal Black, Starry Blue",,5000.0,4.0
+Oppo A55 5G,,,2021-01-25,2021.0,6.5,128.0,13.0,"13 MP, f/2.2, 25mm (wide), 1/3.06"", 1.12µm, PDAF__2 MP, f/2.4, (macro)__2 MP, f/2.4, (depth)",Yes,"GPS, GLONASS, GALILEO, BDS, QZSS","Black, Blue, Gold",200.0,5000.0,4.0
+Oppo A53 5G,,,2020-12-21,2020.0,6.5,128.0,16.0,"16 MP, f/2.2, (wide), PDAF__2 MP, f/2.4, (macro)__2 MP, f/2.4, (depth)",Yes,"GPS, GLONASS, GALILEO, BDS","Black, Green, Purple",160.0,4040.0,4.0
+Oppo A53s,,,2020-10-17,2020.0,6.5,64.0,13.0,"13 MP, f/2.2, 25mm (wide), 1/3.06"", 1.12µm, PDAF__2 MP, f/2.4, (macro)__2 MP, f/2.4, (depth)","Yes, with stereo speakers","GPS, GLONASS, GALILEO, BDS","Electric Black, Fancy Blue",110.0,5000.0,4.0
+Oppo A53,,,2020-08-25,2020.0,6.5,64.0,13.0,"13 MP, f/2.2, 25mm (wide), 1/3.06"", 1.12µm, PDAF__2 MP, f/2.4, (macro)__2 MP, f/2.4, (depth)","Yes, with stereo speakers","GPS, GLONASS, GALILEO, BDS","Fairy White, Electric Black, Fancy Blue",169.99,5000.0,4.0
+Oppo A52,,,2020-04-20,2020.0,6.5,64.0,12.0,"12 MP, f/1.7, (wide), 1/2.8"", 1.25µm, PDAF__8 MP, f/2.2, 119˚ (ultrawide), 1/4.0"", 1.12µm__2 MP, f/2.4, (macro)__2 MP, f/2.4, (depth)","Yes, with stereo speakers","GPS, GLONASS, GALILEO, BDS","Twilight Black, Stream White",240.0,5000.0,4.0
+Oppo A5 (2020),,,2019-10-01,2019.0,6.5,32.0,12.0,"12 MP, f/1.8, 26mm (wide), 1/2.8"", 1.25µm, PDAF__8 MP, 119˚ (ultrawide), 1/4.0"", 1.12µm__2 MP, f/2.4, (depth) __2 MP, f/2.4, (depth)","Yes, with stereo speakers","GPS, GLONASS, GALILEO, BDS","Mirror Black, Dazzling White",170.0,5000.0,4.0
+Oppo A5s (AX5s),,,2019-04-01,2019.0,6.2,32.0,13.0,"13 MP, f/2.2, AF__2 MP, f/2.4, (depth)",Yes,"GPS, GLONASS, GALILEO, BDS","Red, Black, Gold, Green",,4230.0,2.0
+Oppo A5 (AX5),,,2018-07-01,2018.0,6.2,32.0,13.0,"13 MP, f/2.2, AF__2 MP, f/2.4, (depth)",Yes,"GPS, GLONASS","Blue, Pink, Red",230.0,4230.0,3.0
+Oppo A57 (2016),,,2016-12-01,2016.0,5.2,32.0,13.0,"13 MP, f/2.2, PDAF",Yes,GPS,"Black, Gold, Rose Gold",200.0,2900.0,3.0
+Oppo A59 (2016),,,2016-06-01,2016.0,5.5,32.0,13.0,"13 MP, f/2.0, PDAF",Yes,GPS,"Gold, Rose Gold",290.0,3075.0,3.0
+Oppo A53 (2015),,,2015-12-01,2015.0,5.5,16.0,13.0,"13 MP, AF",Yes,GPS,White/Gold,200.0,3075.0,2.0
+Samsung Galaxy A30,,,2019-03-01,2019.0,6.4,32.0,16.0,"16 MP, f/1.7, 27mm (wide), PDAF__5 MP, f/2.2, 12mm, (ultrawide)",Yes,"GPS, GLONASS, GALILEO, BDS","Black, Blue, Red, White",110.0,4000.0,3.0
+Xiaomi Redmi 8A,,,2019-09-30,2019.0,6.22,32.0,12.0,"12 MP, f/1.8, (wide), 1/2.55"", 1.4µm, dual pixel PDAF",Yes,"GPS, GLONASS, BDS","Midnight Black, Ocean Blue, Sunset Red",120.0,5000.0,2.0
+Xiaomi Redmi 8,,,2019-10-12,2019.0,6.22,32.0,12.0,"12 MP, f/1.8, 1/2.55"", 1.4µm, dual pixel PDAF__2 MP, (depth)",Yes,"GPS, GLONASS, GALILEO, BDS","Onyx Black, Ruby Red, Sapphire Blue, Phantom Red",210.0,5000.0,3.0
+Samsung Galaxy J4+,,,2018-10-01,2018.0,6.0,16.0,13.0,"13 MP, f/1.9, 28mm (wide), AF",Yes,"GPS, GLONASS, BDS","Black, Gold, Pink, Blue",220.0,3300.0,2.0
+Samsung Galaxy J6+,,,2018-10-01,2018.0,6.0,32.0,13.0,"13 MP, f/1.9, 28mm (wide), AF__5 MP, f/1.9, (depth)",Yes,"GPS, GLONASS, BDS","Black, Gray, Red, Blue",200.0,3300.0,3.0
+Samsung Galaxy S24 Ultra,,,2024-01-24,2024.0,6.8,256.0,200.0,"200 MP, f/1.7, 24mm (wide), 1/1.3"", 0.6µm, multi-directional PDAF, OIS__10 MP, f/2.4, 67mm (telephoto), 1/3.52"", 1.12µm, PDAF, OIS, 3x optical zoom__50 MP, f/3.4, 111mm (periscope telephoto), 1/2.52"", 0.7µm, PDAF, OIS, 5x optical zoom__12 MP, f/2.2, 13mm, 120˚ (ultrawide), 1/2.55"", 1.4µm, dual pixel PDAF, Super Steady video","Yes, with stereo speakers","GPS, GLONASS, BDS, GALILEO, QZSS","Titanium Black, Titanium Gray, Titanium Violet, Titanium Yellow, Titanium Blue, Titanium Green, Titanium Orange",924.64,5000.0,12.0
+Samsung Galaxy A10s,,,2019-08-27,2019.0,6.2,32.0,13.0,"13 MP, f/1.8, 28mm (wide), AF__2 MP, f/2.4, (depth)_",Yes,"GPS, GLONASS, GALILEO","Blue, Green, Red, Black",180.0,4000.0,2.0
+Samsung Galaxy A30s,,,2019-09-11,2019.0,6.4,32.0,25.0,"25 MP, f/1.7, 27mm (wide), PDAF__8 MP, f/2.2, 13mm (ultrawide), 1/4.0"", 1.12µm__5 MP, f/2.2, (depth)",Yes,"GPS, GLONASS, GALILEO, BDS","Prism Crush Black, Prism Crush White, Prism Crush Green, Prism Crush Violet2",260.0,4000.0,3.0
+Samsung Galaxy A55,,,2024-03-15,2024.0,6.6,128.0,50.0,"50 MP, f/1.8, (wide), 1/1.56"", 1.0µm, PDAF, OIS__12 MP, f/2.2, 123˚ (ultrawide), 1/3.06"", 1.12µm__5 MP, f/2.4, (macro)","Yes, with stereo speakers","GPS, GALILEO, GLONASS, BDS, QZSS","Iceblue, Lilac, Navy, Lemon",314.99,5000.0,6.0
+Samsung Galaxy S24,,,2024-01-24,2024.0,6.2,128.0,50.0,"50 MP, f/1.8, 24mm (wide), 1/1.56"", 1.0µm, dual pixel PDAF, OIS__10 MP, f/2.4, 67mm (telephoto), 1/3.94"", 1.0µm, PDAF, OIS, 3x optical zoom__12 MP, f/2.2, 13mm, 120˚ (ultrawide), 1/2.55"" 1.4µm, Super Steady video","Yes, with stereo speakers","GPS, GLONASS, BDS, GALILEO, QZSS","Onyx Black, Marble Grey, Cobalt Violet, Amber Yellow, Jade Green, Sandstone Orange, Sapphire Blue",558.61,4000.0,8.0
