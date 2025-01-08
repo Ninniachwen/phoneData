@@ -6,3 +6,5 @@ fuzzywuzzy
 python-Levenshtein
 ipykernel
 scikit-learn
+matplotlib
+gower
